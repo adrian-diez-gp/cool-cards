@@ -1,25 +1,59 @@
-import logo from './logo.svg';
+import React from "react";
 import './App.css';
+import { useNavigate } from 'react-router-dom'
+
 
 function App() {
+
+  const navigate = useNavigate()
+
+
+  const cards = [{
+    colour:'white',
+    bg: 'https://dotesports.com/wp-content/uploads/2020/09/15123003/ZNR-Full-Shepherd-of-Heroes.jpg'
+  },
+  {
+    colour:'blue',
+    bg: 'https://images.saymedia-content.com/.image/t_share/MTc5MjE4MTk2NTc0MzgxNTU2/blue-artwork-mtg.jpg'
+  },
+  {
+    colour:'black',
+    bg: 'https://media.wizards.com/2015/images/daily/cardart_ORI_UndeadServant.jpg'
+  },
+  {
+    colour:'red',
+    bg: 'https://media.wizards.com/2015/images/daily/cardart_DTK_Sarkhans-Rage.jpg'
+  },
+  {
+    colour:'green',
+    bg: 'https://media.wizards.com/2015/images/daily/cardart_VMA_Fastbond.jpg'
+  },
+  {
+    colour:'gold',
+    bg:'https://mtgazone.com/wp-content/uploads/2022/10/Wurmcoil-Engine-Art-by-Raymond-Swanland.jpg'
+  },
+  ]
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <header>
       </header>
+      <main className="App-body">
+        <h1>
+          Cool cards and where to find them
+        </h1>
+        <div className="cards-wrapper">
+          {cards.map(card => 
+            <div className="colour-card" onClick={() => navigate(`/${card.colour}`) } >
+              <img src={card.bg} height={"300px"} width={"300px"} alt=""/>
+              <h2>{card.colour}</h2>
+            </div>
+          )}
+        </div>
+      </main>
     </div>
   );
 }
 
 export default App;
+
