@@ -114,13 +114,13 @@ export default function white() {
                 <br />
             </div>   
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/extraordinaryjourneyf.jpg"/>
-                <p><strong>Rating: B-</strong>Sideboard card for big creatures. Triggers on adventures, so put this in if you see a lot!</p>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/snaremasterspritef.jpg"/>
+                <p><strong>Rating: C</strong>An archetype you haven't seen yet: blue black faeries (tempo). Play these small creatures, counter everything, win! A favourite of mine.</p>
                 <br />
             </div>   
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/extraordinaryjourneyf.jpg"/>
-                <p><strong>Rating: B-</strong>Sideboard card for big creatures. Triggers on adventures, so put this in if you see a lot!</p>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/spellstutterf.jpg"/>
+                <p><strong>Rating: C+</strong>Another for the archetype. Base line is already good, add one or two faeries on the board and this is DIAMONDS.</p>
                 <br />
             </div>   
 
