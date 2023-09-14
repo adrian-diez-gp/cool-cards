@@ -9,7 +9,7 @@ export default function white() {
         <div className="colour-page-wrapper">
             <h1>A (Always get them)</h1>
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/expeltheinterlopersf.jpg" />
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/expeltheinterlopersf.jpg"/>
                 <p><strong>Rating: A-</strong>. Good in a tokens deck (to get rid of everything bigger than your creatures) or in a control deck.</p>
             </div>
             <div>
@@ -56,8 +56,28 @@ export default function white() {
             </div>
             <div>
                 <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/hopefulvigil.jpg" />
-                <p><strong>Rating: B</strong>.  Normally you don't want multiples of your cards in your deck. But if your 2 mana slot is filled with 3 of these, I'd call that a good deck. Reaaaally good for bargaining, or for those token bonuses!</p>
+                <p><strong>Rating: B</strong>.  Normally you don't want multiples of your cards in your deck. But if your 2 mana slot is filled with 3 or 4 of these, I'd call that a good deck. Reaaaally good for bargaining, or for those token bonuses!</p>
             </div>
+            <div>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/spellbookvendorf.jpg" />
+                <p><strong>Rating: B-</strong>.  Much better if you start combining it with "enchantment dies"
+                 cards (see <a href="https://mythicspoiler.com/woe/cards/knightofdoves.html" alt=".">Knight of doves</a>) as you can
+                 put two roles on the same creature, causing the first to fall and die. Also good with tokens (see a pattern  here?)
+                 </p>
+            </div>
+            <div>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/coopedup.jpg" />
+                <p><strong>Personal Rating: B-</strong>. If you get two or three good white cards, it's time to pick at least two of these. 5 mana to exile a creature, 
+                two mana to make a small critter useless until you need to bargain the enchantment away (and by that time, what's a measly 2/2 gonna do against your wisely chosen bombs?)
+                 </p>
+            </div>
+            <div>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/strokeofmidnightf.jpg" />
+                <p><strong>HONORABLE MENTION</strong>.  Great removal, but it leaves a 1/1 behind. Good in singles</p>
+            </div>
+
+            <h1>C (Cards that will make the cut)</h1>
+
 
             <h1>COMMON CARDS</h1>
             <img src="https://mythicspoiler.com/woe/cards/slumberingkeepguard.jpg" />
