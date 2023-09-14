@@ -121,7 +121,7 @@ export default function white() {
             </div>
             <div>
                 <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/slumberingkeepguard.jpg" />
-                <p><strong>Rating: C-/C+</strong>. Pick this AFTER you have picked your roles and your 
+                <p><strong>Rating: C-/C+</strong>. Pick this AFTER you have picked your roles and your  
                 <a href="https://mythicspoiler.com/woe/cards/hopefulvigil.jpg">two mana</a> /
                 <a href="https://mythicspoiler.com/woe/cards/coopedup.jpg">enchantments</a>. Terrible on its own, amazing in a dedicated enchants deck. You can activate the ability 
                 more than once in the same turn.
@@ -130,7 +130,7 @@ export default function white() {
             </div>
 
             <h1>OTHERS</h1>
-            <p>CREATURES WITH FLYING: Remember the acronym BREAD: <br/>
+            <p><b>CREATURES WITH FLYING</b>: Remember the acronym BREAD: <br/>
             <b>B</b>ombs <br/>
             <b>R</b>emoval <br />
             <b>E</b>vasion (here are flyers, "skulk", trample...) <br />
