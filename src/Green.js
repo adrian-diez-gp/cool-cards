@@ -101,6 +101,18 @@ export default function white() {
                 <a href="https://mythicspoiler.com/woe/cards/howlinggalefangf.jpg">turn 4 creature</a>, turn 5 sac the food get this UwU</p>
                 <br />
             </div> 
+            <div>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/curseofthewerefoxf.jpg"/>
+                <p><strong>Rating: C-</strong>. Expensive removal that leaves a role behind. Not bad, but it requires for you to have a creature to fight with.
+                </p>
+                <br />
+            </div>
+            <div>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/hollowscavengerf.jpg"/>
+                <p><strong>Rating: B</strong>. Personal favourite of mine. Drop a food for bargain, play it on turn 3, threaten a 5/4 (!!) every turn from there on.
+                </p>
+                <br />
+            </div>
 
             https://mythicspoiler.com/woe/cards/thehuntsmansredemptionf.jpg
             https://mythicspoiler.com/woe/cards/questingdruidf.jpg
@@ -111,8 +123,6 @@ export default function white() {
             <h1>COMMON CARDS</h1>
             <img src="https://mythicspoiler.com/woe/cards/returnfromthewildsf.jpg" />
             <img src="https://mythicspoiler.com/woe/cards/hollowscavengerf.jpg" />
-            <img src="https://mythicspoiler.com/woe/cards/hamletgluttonf.jpg" />
-            <img src="https://mythicspoiler.com/woe/cards/curseofthewerefoxf.jpg" />
         </div>
     )
 }
