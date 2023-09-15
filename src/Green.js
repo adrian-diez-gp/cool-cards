@@ -76,9 +76,31 @@ export default function white() {
                 be chumpblocked!</p>
                 <br />
             </div>
+            <div>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/howlinggalefangf.jpg"/>
+                <p><strong>Rating: B-</strong>. There are few things better to do in limited than play on curve. If you play a 3/3 on turn 3, followed by a 4/4 in turn 4/4,
+                chances are that you're ahead in the game. If you played an adventure, this is *chef's kiss*.
+                </p>
+                <br />
+            </div>
+            <div>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/tanglespanlookoutf.jpg"/>
+                <p><strong>Rating: B+</strong>. One draw, and this card has paid for itself. From the second draw on, this is paying dividends. </p>
+                <br />
+            </div> 
             
             
             <h1>C (Cards that will make the cut, or that need support from other cards)</h1>
+            <div>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/hamletgluttonf.jpg"/>
+                <p><strong>Rating: C++</strong>. Oh My God do I love this card. Cheeky 6/6 trample for 5 mana, that also gains you life!
+                Only reason I don't put this as a B is because of the Cursed Roles. But goddd I can see the 
+                <a href="https://mythicspoiler.com/woe/cards/hollowscavengerf.jpg">turn 1 food</a>, 
+                <a href="https://mythicspoiler.com/woe/cards/tempesthart.jpg">turn 2 adventure</a>,
+                <a href="https://mythicspoiler.com/woe/cards/hollowscavengerf.jpg">turn 3 creature </a>, 
+                <a href="https://mythicspoiler.com/woe/cards/howlinggalefangf.jpg">turn 4 creature</a>, turn 5 sac the food get this UwU</p>
+                <br />
+            </div> 
 
             https://mythicspoiler.com/woe/cards/thehuntsmansredemptionf.jpg
             https://mythicspoiler.com/woe/cards/questingdruidf.jpg
@@ -91,15 +113,6 @@ export default function white() {
             <img src="https://mythicspoiler.com/woe/cards/hollowscavengerf.jpg" />
             <img src="https://mythicspoiler.com/woe/cards/hamletgluttonf.jpg" />
             <img src="https://mythicspoiler.com/woe/cards/curseofthewerefoxf.jpg" />
-
-            <h1>UNCOMMON CARDS</h1>
-            <img src="https://mythicspoiler.com/woe/cards/tanglespanlookoutf.jpg" />
-            <img src="https://mythicspoiler.com/woe/cards/toughcookief.jpg" />
-            <img src="https://mythicspoiler.com/woe/cards/howlinggalefangf.jpg" />
-            <img src="https://mythicspoiler.com/woe/cards/stormkeldvanguardf.jpg" />
-
-
-            <h1>RARES AND MYTHICS</h1>
         </div>
     )
 }
