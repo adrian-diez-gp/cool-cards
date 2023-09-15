@@ -1,12 +1,16 @@
 /* eslint-disable jsx-a11y/alt-text */
+import { useNavigate } from 'react-router-dom'
 
 import React from "react";
 import './App.css';
 
 export default function Green() {
+    const navigate = useNavigate()
 
     return (
         <div className="colour-page-wrapper">
+            <div onClick={() => navigate('/')}><b>Home</b></div>
+
             <h1>A (Always get them)</h1>    
             <div>
                 <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/elvisharchivistf.jpg"/>

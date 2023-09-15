@@ -9,7 +9,7 @@ export default function White() {
 
     return (
         <div className="colour-page-wrapper">
-            <div onClick={() => navigate('/')}>Home</div>
+            <div onClick={() => navigate('/')}><b>Home</b></div>
             <h1>A (Always get them)</h1>
             <div>
                 <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/expeltheinterlopersf.jpg"/>
