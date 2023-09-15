@@ -123,29 +123,6 @@ export default function white() {
                 <p><strong>Rating: C+</strong>Another for the archetype. Base line is already good, add one or two faeries on the board and this is DIAMONDS.</p>
                 <br />
             </div>   
-
-
-
-            <h1>COMMON CARDS</h1>
-            <img src="https://mythicspoiler.com/woe/cards/quickstudy.jpg" />
-            <img src="https://mythicspoiler.com/woe/cards/johannsstopgapf.jpg" />
-            <img src="https://mythicspoiler.com/woe/cards/waterwings.jpg" />
-            <img src="https://mythicspoiler.com/woe/cards/freezeinplace.jpg" />
-            <img src="https://mythicspoiler.com/woe/cards/spellstutterf.jpg" />
-            <img src="https://mythicspoiler.com/woe/cards/vantresstransmuter.jpg" />
-
-            <h1>UNCOMMON CARDS</h1>
-            <img src="https://mythicspoiler.com/woe/cards/tenacioustomeseeker.jpg" />
-            <img src="https://mythicspoiler.com/woe/cards/icewroughtsentryf.jpg" />
-            <img src="https://https://mythicspoiler.com/woe/cards/frolickingfamiliarf.jpg" />
-            <img src="https://mythicspoiler.com/woe/cards/gadwicksfirstduelf.jpg" />
-            <img src="https://mythicspoiler.com/woe/cards/chancelloroftalesf.jpg" />
-            <img src="https://mythicspoiler.com/woe/cards/bitterchillf.jpg" />
-
-            <h1>RARES AND MYTHICS</h1>
-            <img src="https://mythicspoiler.com/woe/cards/hornedlochwhalef.jpg" />
-            <img src="https://mythicspoiler.com/woe/cards/ingeniousprodigyf.jpg" />
-            <img src="https://mythicspoiler.com/woe/cards/farsightritualf.jpg" />
         </div>
     )
 }
