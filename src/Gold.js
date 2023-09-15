@@ -108,13 +108,30 @@ export default function white() {
                 and replaces itself if you sac it. A true all-in-one!</p>
                 <br />
             </div>
-
-            <img src="https://mythicspoiler.com/woe/cards/candytrailf.jpg" />
-
-            <h1></h1>
-            <img src="https://mythicspoiler.com/woe/cards/evolvingwilds.jpg" />
-            <img src="https://mythicspoiler.com/woe/cards/edgewallinnf.jpg" />
-            
+            <div>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/edgewallinnf.jpg"/>
+                <p><strong>Rating: C</strong>. Mana fixing for your adventure color, but you need to sac it to get back the adventure. Hm. Maybe if the creature side is good enough.
+                Maybe.</p>
+                <br />
+            </div>
+            <div>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/agathassoulcauldronf.jpg"/>
+                <p><strong>Rating: C+++</strong>. If this is your first card, get it. Never sad to get "free" +1/+1 counters. From the third on,
+                this card is overperforming.</p>
+                <br />
+            </div>
+            <div>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/collectorsvaultf.jpg"/>
+                <p><strong>Rating: C</strong>. In a long game, this can net you three extra cards PLUS three treasures (sneaky mana fixing!) 
+                Put this in as your 22-23rd card.</p>
+                <br />
+            </div>
+            <div>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/eriettestemptingapplef.jpg"/>
+                <p><strong>Rating: C-</strong>. An interesting effect in colourless. Always best if you can sacrifice the creature before giving 
+                it back to its rightful owner.</p>
+                <br />
+            </div>
         </div>
     )
 }
