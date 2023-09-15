@@ -5,6 +5,7 @@ import Black from "./Black"
 import Red from "./Red"
 import Green from "./Green"
 import Gold from "./Gold"
+import Specialsheet from "./Specialsheet"
 import App from "./App"
 import { createRoot } from "react-dom/client";
 import {
@@ -40,6 +41,10 @@ const router = createBrowserRouter([
   {
     path: "/gold",
     element: <Gold />
+  },
+  {
+    path: "/specialsheet",
+    element: <Specialsheet />
   }
   
 ]);
