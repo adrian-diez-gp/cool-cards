@@ -3,7 +3,7 @@
 import React from "react";
 import './App.css';
 
-export default function white() {
+export default function Blue() {
 
     return (
         <div className="colour-page-wrapper">
