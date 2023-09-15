@@ -109,20 +109,42 @@ export default function white() {
             </div>
             <div>
                 <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/hollowscavengerf.jpg"/>
-                <p><strong>Rating: B</strong>. Personal favourite of mine. Drop a food for bargain, play it on turn 3, threaten a 5/4 (!!) every turn from there on.
+                <p><strong>Rating: C-</strong>. Personal favourite of mine. Drop a food for bargain, play it on turn 3, threaten a 5/4 (!!) every turn from there on.
                 </p>
                 <br />
             </div>
-
-            https://mythicspoiler.com/woe/cards/thehuntsmansredemptionf.jpg
-            https://mythicspoiler.com/woe/cards/questingdruidf.jpg
-            https://mythicspoiler.com/woe/cards/bramblefamiliarf.jpg
-            https://mythicspoiler.com/woe/cards/feralencounterf.jpg
-            https://mythicspoiler.com/woe/cards/tempesthart.jpg
-
-            <h1>COMMON CARDS</h1>
-            <img src="https://mythicspoiler.com/woe/cards/returnfromthewildsf.jpg" />
-            <img src="https://mythicspoiler.com/woe/cards/hollowscavengerf.jpg" />
+            <div>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/tempesthart.jpg"/>
+                <p><strong>Rating: C</strong>. This is the signpost for the 5 mana archetype. Able to do something early, and getting bigger the later it goes. Nice 
+                one overall.</p>
+                <br />
+            </div> 
+            <div>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/bramblefamiliarf.jpg"/>
+                <p><strong>Rating: C</strong>. Almost all green rares are good, except if they cost 8 mana.
+                 This one can find you a good creature, or ramp you into the bigger stuff if you get it early.</p>
+                <br />
+            </div>
+            <div>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/returnfromthewildsf.jpg"/>
+                <p><strong>Rating: C-</strong>. The versatility in this is why I would want one in my deck.
+                It can be mana ramp/fixing, a token to block with, or two tokens for bargain purposes if I don't want more mana.
+                Good only if you're base green with many colors of splash, or as the 20-23rd card in your deck.</p>
+                <br />
+            </div>
+            <div>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/thehuntsmansredemptionf.jpg"/>
+                <p><strong>Rating: C</strong>. Remember when I said a 3/3 for 3 is good? This is that, with upside. Doesn't matter if you don't get to use chapter 2 or 3,
+                chapter 1 is good enough!</p>
+                <br />
+            </div> 
+            <div>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/feralencounterf.jpg"/>
+                <p><strong>Rating: C</strong>. Find a creature in the top 5, you can play it this turn, then "bite" something. The bite part is good enough to be included, but look 
+                for <a href="https://mythicspoiler.com/woe/cards/gracefultakedownf.jpg">Graceful Takedown</a> instead.
+                </p>
+                <br />
+            </div>
         </div>
     )
 }
