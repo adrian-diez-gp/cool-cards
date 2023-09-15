@@ -33,7 +33,7 @@ function App() {
     bg:'https://mtgazone.com/wp-content/uploads/2022/10/Wurmcoil-Engine-Art-by-Raymond-Swanland.jpg'
   },
   {
-    colour:'SpecialSheet',
+    colour:'Specialsheet',
     bg:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC08VdUvbv8DbmNIWLbp-RSGdJCx92rwjoZw&usqp=CAU'
   }]
 
