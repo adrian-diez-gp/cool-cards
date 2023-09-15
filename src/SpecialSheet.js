@@ -11,25 +11,25 @@ export default function SpecialSheet() {
         <div className="colour-page-wrapper">
             <div onClick={() => navigate('/')}><b>Home</b></div>
 
-            <h1>A (Always get them)</h1>
+            <h1>A (Always get them: expensive or amazing)</h1>
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/ingeniousprodigyf.jpg"/>
-                <p><strong>Rating: A-</strong>. Drawing two cards per turn is powerful. Who would've known... Start playing this card for X=3 unless you really nee dit in turn 3 (not before!).</p>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/bitterblossomf.jpg"/>
+                <p><strong>Rating: A+</strong>. What's better than a faerie? A faerie a turn! This wins.</p>
                 <br />
             </div>  
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/hornedlochwhalef.jpg"/>
-                <p><strong>Rating: A</strong>. Strong in the early game (adventure), strong in the late game. Classic bomb!</p>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/defenseoftheheartf.jpg"/>
+                <p><strong>Rating: A</strong>. Play a normal game, drop this, and go find your two best Tocinos. Sure win!</p>
                 <br />
             </div>    
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/talionsmessengerf.jpg"/>
-                <p><strong>Rating: A-</strong>. If you saw blue cards going late, pick this. No sinergies needed for it: Attack, discard, grow, win :D</p>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/rhysticstudyf.jpg"/>
+                <p><strong>Rating: A-</strong>. This will pay for the draft. So, let's win something!</p>
                 <br />
             </div>    
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/twiningtwinsf.jpg"/>
-                <p><strong>Rating: A-</strong>. You don't need white for this card to be ridiculous. If you do, all the more power for you.</p>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/doublingseasonf.jpg"/>
+                <p><strong>Rating: A-</strong>. This will pay for the draft. So, let's win something!</p>
                 <br />
             </div>    
             <div>

@@ -16,6 +16,13 @@ export default function Gold() {
             <br />
             <h1>A (Archetype defining)</h1>
             <div>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/agathassoulcauldronf.jpg"/>
+                <p><strong>Rating: C+++</strong>. If this is your first card, get it. Never sad to get "free" +1/+1 counters. From the third on,
+                this card is overperforming.</p>
+                <p><strong>EDIT: This card is 30 euros. You open it, we both win. OPEN IT!!!!!</strong></p>
+                <br />
+            </div>
+            <div>
                 <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/hyldaoftheicycrownf.jpg"/>
                 <p><strong>Rating: A</strong>. Innncredible if you find enough support. According to experts, blue/white is on the decline, so
                 you'll find more support cards than normal to go with this.</p>
@@ -118,12 +125,7 @@ export default function Gold() {
                 Maybe.</p>
                 <br />
             </div>
-            <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/agathassoulcauldronf.jpg"/>
-                <p><strong>Rating: C+++</strong>. If this is your first card, get it. Never sad to get "free" +1/+1 counters. From the third on,
-                this card is overperforming.</p>
-                <br />
-            </div>
+
             <div>
                 <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/collectorsvaultf.jpg"/>
                 <p><strong>Rating: C</strong>. In a long game, this can net you three extra cards PLUS three treasures (sneaky mana fixing!) 
