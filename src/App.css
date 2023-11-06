@@ -33,6 +33,11 @@ html {
   color: #61dafb;
 }
 
+.card-wrapper {
+  display: block;
+  margin: 0 auto;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

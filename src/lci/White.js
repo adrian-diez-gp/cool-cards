@@ -10,18 +10,20 @@ export default function White() {
     return (
         <div className="colour-page-wrapper">
             <div onClick={() => navigate('/')}><b>Home</b></div>
+            <div onClick={() => navigate('/lci')}><b>Back</b></div>
+
             <div>This page will follow the acronym BREAD (Bombs, Removal, Evasion, Anything else, Don't play).</div>
             <div>However, due to time constraints, only the BRE part will be done.</div>
 
             <h1>Bombs (Cards that get away with the game if left unchecked)</h1>
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/ashiokwickedmanipulator.jpg"/>
-                <p><strong>Ojer Taq</strong>. Gorgeous card for token decks, but a recursive 6/6 is more than enough to win by itself.</p>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/ojertaqdeepestfoundationf.jpg"/>
+                <p><strong>Mythic - Ojer Taq</strong>. Gorgeous card for token decks, but a recursive 6/6 is more than enough to win by itself.</p>
                 <br />
             </div> 
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/virtueofpersistencef.jpg"/>
-                <p><strong>Thousand Moon Smithy</strong>. This and the token it creates count towards flipping it, and the flip side will get you
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/thousandmoonssmithyf.jpg"/>
+                <p><strong>Rare - Thousand Moon Smithy</strong>. This and the token it creates count towards flipping it, and the flip side will get you
                 basically a <a href="https://mythicspoiler.com/woe/cards/regalbunnicornf.jpg">bunnycorn</a> per turn. Reaaaally good.</p>
                 <br />
             </div> 
@@ -32,120 +34,131 @@ export default function White() {
             
             <h1>Removal (anything that gets pesky permanents out of the board, with varying efficacy)</h1>
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/theprincesstakesflight.jpg" />
-                <p><strong>Get lost</strong>. As good as a white removal is going to get in the current era. Notably, it doesn't destroy artifacts.</p>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/getlostf.jpg" />
+                <p><strong>Rare - Get lost</strong>. As good as a white removal is going to get in the current era. Notably, it doesn't destroy artifacts.</p>
                 <br />
             </div>
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/pollenshieldhare.jpg" />
-                <p><strong>Unstable Glyphbridge</strong>. Not the best wrath in the world, but a wrath nonetheless; the flip side is more annoying than needing to pee when it's 
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/unstableglyphbridgef.jpg" />
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/sandswirlwanderglyph.jpg" />
+                <p><strong>Rare - Unstable Glyphbridge</strong>. Not the best wrath in the world, but a wrath nonetheless; the flip side is more annoying than needing to pee when it's 
                 your turn to get on a rollercoaster.</p>
                 <br />
             </div>
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/heartflameduelistf.jpg" />
-                <p><strong>Duskrose Reliquary</strong>. It looks bad, and probably is if inherent artifact removal (i.e. things that destroy artifacts as part of their effect 
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/duskrosereliquaryf.jpg" />
+                <p><strong>Uncommon - Duskrose Reliquary</strong>. It looks bad, and probably is if inherent artifact removal (i.e. things that destroy artifacts as part of their effect 
                 instead of the effect just being "destroy target artifact") is abundant. However, getting rid of ANY artifact or creature for 1 mana is as good an exchange as you could possibly hope for.</p>
                 <br />
             </div>
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/regalbunnicornf.jpg" />
-                <p><strong>Dauntless dismantler</strong>. Annnd here it is, the mass artifact destruction. 
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/dauntlessdismantler1.jpg" />
+                <p><strong>Uncommon - Dauntless dismantler</strong>. Annnd here it is, the mass artifact destruction. 
                 For a single W, it gets rid of all artifact tokens (even if they are creatures!)</p>
                 <br />
             </div>
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/werefoxbodyguardf.jpg" />
-                <p><strong>Spring-Loaded Sawblades</strong>. Destroy target "tapped" (attacking) creature for 2 mana is always nice. 
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/springloadedsawbladesf.jpg" />
+                <p><strong>Uncommon - Spring-Loaded Sawblades</strong>. Destroy target "tapped" (attacking) creature for 2 mana is always nice. 
                 The crafted side has applications (see Attentive Sunscribe or Volatile Wonderglyph)</p>
                 <br />
             </div>
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/threeblindmicef.jpg" />
-                <p><strong>Quicksand Whirlpool</strong>. Too expensive for my liking (paying 6 mana to get rid of a 3 mana creature has never been a good thing) 
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/quicksandwhirlpool.jpg" />
+                <p><strong>Common - Quicksand Whirlpool</strong>. Too expensive for my liking (paying 6 mana to get rid of a 3 mana creature has never been a good thing) 
                 but chances are that you'll use at least one of these. I'm generally not a fan that removal that needs the opponent to do something (see below)</p>
                 <br />
             </div>
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/shroudedshepherd.jpg" />
-                <p><strong>Cosmium Blast</strong>.  Gideon is no more, so <a href="http://">Gideon's reproach</a> needed a revamp. Like I said, not a fan of
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/cosmiumblast.jpg" />
+                <p><strong>Cosmium Blast</strong>.  Gideon is no more, so <a href="https://www.mythicspoiler.com/bfz/cards/gideonsreproach.jpg">Gideon's reproach</a> needed a revamp. Like I said, not a fan of
                 removal that needs the opponent to attack/block/tap creatures/etc.</p>
                 <br />
             </div>
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/hopefulvigil.jpg" />
-                <p><strong>Petrify</strong>. White seems to have <a href="http://petrification">a penchant for stone</a>. Pacifism at its best; but remember that it cn be bounced
-                and turned back (no "craft" with this tho!)</p>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/petrifyf.jpg" />
+                <p><strong>Petrify</strong>. Pacifism at its best; but remember that it can be bounced and turned back ("craft" abilities get disabled with this though!)</p>
                 <br />
             </div>
+            <h3>Comments: Lots of different removal in white but we'll more commonly see only the common (heh) ones.</h3>
+            <br />
+
 
             <h1>Evasion (anything that gets through the invariably present ground wall)</h1>
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/spellbookvendorf.jpg" />
-                <p><strong>Resplendent Angel</strong>.  This reads "3/3 for 1WW" which is already great. If you get an angel for free every turn, the game was already in your favour
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/resplendentangelf.jpg" />
+                <p><strong>Mythic - Resplendent Angel</strong>.  This reads "3/3 for 1WW" which is already great. If you get an angel for free every turn, the game was already in your favour
                 (make the most of it!)
                  </p>
                  <br />
             </div>
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/coopedup.jpg" />
-                <p><strong>Personal Rating: B-</strong>. If you get two or three good white cards, it's time to pick at least two of these. 5 mana to exile a creature, 
-                two mana to make a small critter useless until you need to bargain the enchantment away (and by that time, what's a measly 2/2 gonna do against your wisely chosen bombs?)
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/wardenoftheinnersky.jpg" />
+                <p><strong>Rare - Warden of the Inner Sky</strong>. How fast can we fill the board with more pieces of cardboard? That's how good this card is.
                  </p>
                  <br />
             </div>
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/strokeofmidnightf.jpg" />
-                <p><strong>HONORABLE MENTION</strong>.  Great removal, but it leaves a 1/1 behind. Good in singles.</p>
+                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/strokeofmidnightf.jpg" />
+                <p><strong>Rare - Sanguine Evangelist</strong>.  It is rare not because each of its parts is good, but because of the sum of its parts. Battle Cry
+                can add a lot to the battle. Even if it doesn't connect, the flyers will; and when it dies, it leaves a bat behind.</p>
                 <br />
             </div>
+            <div>
+                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/strokeofmidnightf.jpg" />
+                <p><strong>Common - Oltec Cloudguard</strong>.  Fine flyer, comes with an artifact AND creature. Good in several archetypes -but only <em>good</em>.</p>
+                <br />
+            </div>
+            <div>
+                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/strokeofmidnightf.jpg" />
+                <p><strong>Common - Soaring Sandwing</strong>.  Don't be afraid of cycling it early, this is really only good as a topdeck.</p>
+                <br />
+            </div>
+            <h3>Comments: I expected more from white in terms of flyers. There are a couple of 1/1 for 1 that fly but generally they are not worth it.</h3>
+            <br />
 
-            <h1>C (Cards that will make the cut, or that need support from other cards)</h1>
-            <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/woodlandacolyte.jpg" />
-                <p><strong>Rating: C/C+</strong>.  Generally, cantrips (cards that draw a card, so they replace themselves in your hand)
-                are good, so I wouldn't mind taking one or two of these. If you can play the green part (and you often will), this gets that much better.</p>
-                <br />
-            </div>
-            <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/saviorofthesleeping.jpg" />
-                <p><strong>Rating: C-</strong>. This is one of those cards that needs work. Paired with lots of roles/bargains, it becomes a house (not literally tho)</p>
-                <br />
-            </div>
-            <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/solitarysanctuary.jpg" />
-                <p><strong>Rating: C-</strong>. Another needy card. Blue has a lot of tappers, so it's best in that archetype. Needs 3 taps to start being good.</p>
-                <br />
-            </div>
-            <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/plungeintowinter.jpg" />
-                <p><strong>Rating: C-</strong>. This covers everything we've wanted up to now: taps and replaces itself. Wouldn't mind one copy in the deck.
-                Make sure you don't play it on turn 2 unless you reaaally need to!</p>
-                <br />
-            </div>
-            <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/knightofdovesf.jpg" />
-                <p><strong>Rating: C</strong>. The floor on this is a 1/3 for 3. The ceiling is you get a couple of doves, which is good enough as a pack 3 pick for me</p>
-                <br />
-            </div>
-            <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/slumberingkeepguard.jpg" />
-                <p><strong>Rating: C-/C+</strong>. Pick this AFTER you have picked your roles and your  
-                <a href="https://mythicspoiler.com/woe/cards/hopefulvigil.jpg">two mana</a> /
-                <a href="https://mythicspoiler.com/woe/cards/coopedup.jpg">enchantments</a>. Terrible on its own, amazing in a dedicated enchants deck. You can activate the ability 
-                more than once in the same turn.
+            <h1>Anything else (good cards in general, or archetype-defining)</h1>
+                <div>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/resplendentangelf.jpg" />
+                <p><strong>Uncommon - Market Gnome</strong>. The all-star of both sacrifice and craft archetypes.Also an early wall against aggro decks. Good to have in mind!
                 </p>
                 <br />
             </div>
+            <div>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/wardenoftheinnersky.jpg" />
+                <p><strong>Uncommon - Malamet War Scribe</strong>. Much better in 1-to-1 matches than 2 vs 2 due to the effect only happening to half the board. Token finisher.
+                </p>
+                <br />
+            </div>
+            <div>
+                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/solitarysanctuary.jpg" />
+                <p><strong>Uncommon - Kinjalli's Dawnrunner</strong>. If voltron is an archetype, this guy is its harbinger. That means it is the ideal guy
+                to put auras/equipments on it. A high-risk, high-reward strategy, better in individual than in 2HG (two-headed giant).</p>
+                <br />
+            </div>
+            <div>
+                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/plungeintowinter.jpg" />
+                <p><strong>Uncommon - Ruin-Lurker Bat</strong>. At common, this would have been nice; this is a disgrace. Even so, good for the life matters decks, if there are any.</p>
+                <br />
+            </div>
+            <div>
+                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/knightofdovesf.jpg" />
+                <p><strong>Common - Tinker's Tote</strong>. This is three artifacts and two creatures packed in one card. Even my tote bag doesn't have that many,
+                and I paid no mana for it!</p>
+                <br />
+            </div>  <div>
+                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/knightofdovesf.jpg" />
+                <p><strong>Common - Envoy of Okinec Ahau</strong>. Don't be fooled by his whiskers and his card type, this cat is a beast! A 3/3 for 3 is never bad,
+                and if you happen to have more mana than things to do with it... magic happens</p>
+                <br />
+            </div>
 
-            <h1>OTHERS</h1>
-            <p><b>CREATURES WITH FLYING</b>: Remember the acronym BREAD: <br/>
-            <b>B</b>ombs <br/>
-            <b>R</b>emoval <br />
-            <b>E</b>vasion (here are flyers, "skulk", trample...) <br />
-            <b>A</b>nything else <br />
-            <b>D</b>on't play this
-            </p>
+            <h3>Comments: At first glance, it seems that the artifact theme in white is much stronger than the creature one. In 1 vs 1, the token archetype might 
+                prove too fast or too wide for some decks to play against, but in 2v2 the fact that both opponents can play one creature each dilutes the aggressive
+                power of the tokens. It has some of the strongest removals in the set.
+            </h3>
+
+            <div style={{color:"blue"}} onClick={() => navigate('/lci')}><b>Back to colour selection</b></div>
 
         </div>
     )
