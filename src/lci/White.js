@@ -21,30 +21,36 @@ export default function White() {
             </div> 
             <div>
                 <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/virtueofpersistencef.jpg"/>
-                <p><strong>Thousand Moon Smithy</strong>. THis and the token it creates count towards flipping it, and the flip side will get you
+                <p><strong>Thousand Moon Smithy</strong>. This and the token it creates count towards flipping it, and the flip side will get you
                 basically a <a href="https://mythicspoiler.com/woe/cards/regalbunnicornf.jpg">bunnycorn</a> per turn. Reaaaally good.</p>
                 <br />
             </div> 
+            <h3>
+                Comments: I can't find more bombs so far in white, so its power will probably come either from gold cards and its interactions with other colours,
+                or the bulk commons and uncommons in this colour.
+            </h3>
             
-            <h1>B (Be looking for these!)</h1>
+            <h1>Removal (anything that gets pesky permanents out of the board, with varying efficacy)</h1>
             <div>
                 <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/theprincesstakesflight.jpg" />
-                <p><strong>Rating: B+</strong>. Chapter 1 gets rid of an enemy creature; chapter 2 gives you a good attack. If you BARGAIN this before chapter 3, the creature doesn't come back!</p>
+                <p><strong>Get lost</strong>. As good as a white removal is going to get in the current era. Notably, it doesn't destroy artifacts.</p>
                 <br />
             </div>
             <div>
                 <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/pollenshieldhare.jpg" />
-                <p><strong>Rating: B-</strong>. A good bonus for tokens, it's a 2/2 if you have nothing better to do in turn 2. Obviously better if you can play the green part!</p>
+                <p><strong>Unstable Glyphbridge</strong>. Not the best wrath in the world, but a wrath nonetheless; the flip side is more annoying than needing to pee when it's 
+                your turn to get on a rollercoaster.</p>
                 <br />
             </div>
             <div>
                 <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/heartflameduelistf.jpg" />
-                <p><strong>Rating: B-</strong>.  A tricky one here. Pick it ONLY if you're already in red (not necessarily white), as that is the good side of this card.</p>
+                <p><strong>Duskrose Reliquary</strong>. It looks bad, and probably is if inherent artifact removal (i.e. things that destroy artifacts as part of their effect 
+                instead of the effect just being "destroy target artifact") is abundant. However, getting rid of ANY artifact or creature for 1 mana is as good an exchange as you could possibly hope for.</p>
                 <br />
             </div>
             <div>
                 <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/regalbunnicornf.jpg" />
-                <p><strong>Rating: B-</strong>.  Can it die? Yes. Will you play it in turn 2? Probably. Can this get huge quickly with the help of food tokens etc? Absolutely!</p>
+                <p><strong>Dauntless dismantler</strong>. Andd here it is, the mass artifact destruction. For a single W, it gets rid of</p>
                 <br />
             </div>
             <div>
