@@ -1,11 +1,17 @@
 import React from "react";
-import White from "./White"
-import Blue from "./Blue"
-import Black from "./Black"
-import Red from "./Red"
-import Green from "./Green"
-import Gold from "./Gold"
-import Specialsheet from "./Specialsheet"
+import WoeWhite from "./woe/White"
+import LciWhite from "./lci/White"
+import WoeBlue from "./woe/Blue"
+import LciBlue from "./lci/Blue"
+import WoeBlack from "./woe/Black"
+import LciBlack from "./lci/Black"
+import WoeRed from "./woe/Red"
+import LciRed from "./lci/Red"
+import WoeGreen from "./woe/Green"
+import LciGreen from "./woe/Green"
+import WoeGold from "./woe/Gold"
+import LciGold from "./lci/Gold"
+import Specialsheet from "./woe/Specialsheet"
 import App from "./App"
 import { createRoot } from "react-dom/client";
 import {
@@ -19,31 +25,55 @@ const router = createBrowserRouter([
     element: <App />
   },
   {
-    path: "/white",
-    element: <White />
+    path: "/woe/white",
+    element: <WoeWhite />
   },
   {
-    path: "/blue",
-    element: <Blue />
+    path: "/lci/white",
+    element: <LciWhite />
   },
   {
-    path: "/black",
-    element: <Black />
+    path: "/woe/blue",
+    element: <WoeBlue />
   },
   {
-    path: "/red",
-    element: <Red />
+    path: "/lci/blue",
+    element: <LciBlue />
   },
   {
-    path: "/green",
-    element: <Green />
+    path: "/woe/black",
+    element: <WoeBlack />
   },
   {
-    path: "/gold",
-    element: <Gold />
+    path: "/lci/black",
+    element: <LciBlack />
   },
   {
-    path: "/specialsheet",
+    path: "/woe/red",
+    element: <WoeRed />
+  },
+  {
+    path: "/lci/red",
+    element: <LciRed />
+  },
+  {
+    path: "/woe/green",
+    element: <WoeGreen />
+  },
+  {
+    path: "/lci/green",
+    element: <LciGreen />
+  },
+  {
+    path: "/woe/gold",
+    element: <WoeGold />
+  },
+  {
+    path: "/lci/gold",
+    element: <LciGold />
+  },
+  {
+    path: "/woe/specialsheet",
     element: <Specialsheet />
   }
   

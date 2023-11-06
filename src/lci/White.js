@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/alt-text */
 import { useNavigate } from 'react-router-dom'
 import React from "react";
-import './App.css';
+import '../App.css';
 
 export default function White() {
     const navigate = useNavigate()

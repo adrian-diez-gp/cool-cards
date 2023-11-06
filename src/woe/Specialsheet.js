@@ -2,7 +2,7 @@
 import { useNavigate } from 'react-router-dom'
 
 import React from "react";
-import './App.css';
+import '../App.css';
 
 export default function Specialsheet() {
     const navigate = useNavigate()
