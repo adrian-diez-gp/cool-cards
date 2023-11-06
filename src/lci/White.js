@@ -50,34 +50,40 @@ export default function White() {
             </div>
             <div>
                 <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/regalbunnicornf.jpg" />
-                <p><strong>Dauntless dismantler</strong>. Andd here it is, the mass artifact destruction. For a single W, it gets rid of</p>
+                <p><strong>Dauntless dismantler</strong>. Annnd here it is, the mass artifact destruction. 
+                For a single W, it gets rid of all artifact tokens (even if they are creatures!)</p>
                 <br />
             </div>
             <div>
                 <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/werefoxbodyguardf.jpg" />
-                <p><strong>Rating: B-</strong>.  A FLASHY rare that more often than not will get rid of a big guy for a few turns before it dies.</p>
+                <p><strong>Spring-Loaded Sawblades</strong>. Destroy target "tapped" (attacking) creature for 2 mana is always nice. 
+                The crafted side has applications (see Attentive Sunscribe or Volatile Wonderglyph)</p>
                 <br />
             </div>
             <div>
                 <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/threeblindmicef.jpg" />
-                <p><strong>Rating: B-</strong>.  A payoff for all those token cards! It's rare so you probably won't see it though.</p>
+                <p><strong>Quicksand Whirlpool</strong>. Too expensive for my liking (paying 6 mana to get rid of a 3 mana creature has never been a good thing) 
+                but chances are that you'll use at least one of these. I'm generally not a fan that removal that needs the opponent to do something (see below)</p>
                 <br />
             </div>
             <div>
                 <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/shroudedshepherd.jpg" />
-                <p><strong>Rating: B</strong>.  Pick it in a nonblack deck, you get a niiice attack. Pick it in a black deck, and you can debilitate your opponent's creatures before an attack. Play it against a Rat deck and, well... you might like that game. :)</p>
+                <p><strong>Cosmium Blast</strong>.  Gideon is no more, so <a href="http://">Gideon's reproach</a> needed a revamp. Like I said, not a fan of
+                removal that needs the opponent to attack/block/tap creatures/etc.</p>
                 <br />
             </div>
             <div>
                 <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/hopefulvigil.jpg" />
-                <p><strong>Rating: B</strong>.  Normally you don't want multiples of your cards in your deck. But if your 2 mana slot is filled with 3 or 4 of these, I'd call that a good deck. Reaaaally good for bargaining, or for those token bonuses!</p>
+                <p><strong>Petrify</strong>. White seems to have <a href="http://petrification">a penchant for stone</a>. Pacifism at its best; but remember that it cn be bounced
+                and turned back (no "craft" with this tho!)</p>
                 <br />
             </div>
+
+            <h1>Evasion (anything that gets through the invariably present ground wall)</h1>
             <div>
                 <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/spellbookvendorf.jpg" />
-                <p><strong>Rating: B-</strong>.  Much better if you start combining it with "enchantment dies"
-                 cards (see <a href="https://mythicspoiler.com/woe/cards/knightofdoves.html" alt=".">Knight of doves</a>) as you can
-                 put two roles on the same creature, causing the first to fall and die. Also good with tokens (see a pattern  here?)
+                <p><strong>Resplendent Angel</strong>.  This reads "3/3 for 1WW" which is already great. If you get an angel for free every turn, the game was already in your favour
+                (make the most of it!)
                  </p>
                  <br />
             </div>
