@@ -8,34 +8,18 @@ function App() {
   const navigate = useNavigate()
 
 
-  const cards = [{
-    colour:'white',
+  const collections = [
+    {
+    name:'Wilds of Eldraine',
+    link:"woe",
     bg: 'https://dotesports.com/wp-content/uploads/2020/09/15123003/ZNR-Full-Shepherd-of-Heroes.jpg'
   },
   {
-    colour:'blue',
-    bg: 'https://images.saymedia-content.com/.image/t_share/MTc5MjE4MTk2NTc0MzgxNTU2/blue-artwork-mtg.jpg'
-  },
-  {
-    colour:'black',
-    bg: 'https://media.wizards.com/2015/images/daily/cardart_ORI_UndeadServant.jpg'
-  },
-  {
-    colour:'red',
-    bg: 'https://media.wizards.com/2015/images/daily/cardart_DTK_Sarkhans-Rage.jpg'
-  },
-  {
-    colour:'green',
-    bg: 'https://media.wizards.com/2015/images/daily/cardart_VMA_Fastbond.jpg'
-  },
-  {
-    colour:'gold',
-    bg:'https://mtgazone.com/wp-content/uploads/2022/10/Wurmcoil-Engine-Art-by-Raymond-Swanland.jpg'
-  },
-  {
-    colour:'specialsheet',
-    bg:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC08VdUvbv8DbmNIWLbp-RSGdJCx92rwjoZw&usqp=CAU'
-  }]
+    name:'Lost Caverns of Ixalan',
+    link: "lci",
+    bg: 'https://dotesports.com/wp-content/uploads/2020/09/15123003/ZNR-Full-Shepherd-of-Heroes.jpg'
+  }
+]
 
   return (
     <div className="App">
@@ -46,10 +30,10 @@ function App() {
           Cool cards and where to find them
         </h1>
         <div className="cards-wrapper">
-          {cards.map(card => 
-            <div className="colour-card" onClick={() => navigate(`/${card.colour}`) } >
-              <img src={card.bg} height={"300px"} width={"300px"} alt=""/>
-              <h2>{card.colour}</h2>
+          {collections.map(clt => 
+            <div className="colour-card" onClick={() => navigate(`/${clt.link}`) } >
+              <img src={clt.bg} height={"300px"} width={"300px"} alt=""/>
+              <h2>{clt.name}</h2>
             </div>
           )}
         </div>

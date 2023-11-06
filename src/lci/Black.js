@@ -10,17 +10,21 @@ export default function Black() {
     return (
         <div className="colour-page-wrapper">
             <div onClick={() => navigate('/')}><b>Home</b></div>
+            <div onClick={() => navigate('/lci')}><b>Back</b></div>
 
-            <h1>A (Always get them)</h1>
+            <div>This page will follow the acronym BREAD (Bombs, Removal, Evasion, Anything else, Don't play).</div>
+            <div>However, due to time constraints, only the BRE part will be done.</div>
+
+            <h1>Bombs (Cards that get away with the game if left unchecked)</h1>
             <div>
                 <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/ashiokwickedmanipulator.jpg"/>
-                <p><strong>Rating: A+</strong>. This does so much work, I'll let you know when you pick it.</p>
+                <p><strong>Ojer Taq</strong>. Gorgeous card for token decks, but a recursive 6/6 is more than enough to win by itself.</p>
                 <br />
             </div> 
             <div>
                 <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/virtueofpersistencef.jpg"/>
-                <p><strong>Rating: A+</strong>. One of the best cards in the set, period. Removal in the early game (and -3/-3 will kill like 75% of 
-                the creatures in the format) and a free reanimate per turn later. This and ashiok are worth having a subpar black deck.</p>
+                <p><strong>Thousand Moon Smithy</strong>. THis and the token it creates count towards flipping it, and the flip side will get you
+                basically a <a href="https://mythicspoiler.com/woe/cards/regalbunnicornf.jpg">bunnycorn</a> per turn. Reaaaally good.</p>
                 <br />
             </div> 
             <div>

@@ -10,27 +10,21 @@ export default function White() {
     return (
         <div className="colour-page-wrapper">
             <div onClick={() => navigate('/')}><b>Home</b></div>
-            <h1>A (Always get them)</h1>
+            <div>This page will follow the acronym BREAD (Bombs, Removal, Evasion, Anything else, Don't play).</div>
+            <div>However, due to time constraints, only the BRE part will be done.</div>
+
+            <h1>Bombs (Cards that get away with the game if left unchecked)</h1>
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/expeltheinterlopersf.jpg"/>
-                <p><strong>Rating: A-</strong>. Good in a tokens deck (to get rid of everything bigger than your creatures) or in a control deck.</p>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/ashiokwickedmanipulator.jpg"/>
+                <p><strong>Ojer Taq</strong>. Gorgeous card for token decks, but a recursive 6/6 is more than enough to win by itself.</p>
                 <br />
-            </div>
+            </div> 
             <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/atalefortheagesf.jpg" />
-                <p><strong>Rating: A-</strong>. It alone doesn't do anything. Verrry few decks don't want this. Roles also count, so start picking those up more.</p>
+                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/virtueofpersistencef.jpg"/>
+                <p><strong>Thousand Moon Smithy</strong>. THis and the token it creates count towards flipping it, and the flip side will get you
+                basically a <a href="https://mythicspoiler.com/woe/cards/regalbunnicornf.jpg">bunnycorn</a> per turn. Reaaaally good.</p>
                 <br />
-            </div>
-            <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/archonofthewildrosef.jpg" />
-                <p><strong>Rating: A</strong>.  Almost worth giving up a colour and going into white. As good or more as the enchantment, but it alone is already great!</p>
-                <br />
-            </div>
-            <div>
-                <img style={{display:"block"}} src="https://mythicspoiler.com/woe/cards/virtueofloyalty.jpg" />
-                <p><strong>Rating: A+</strong>.  A is for Amazing here. 2/2 at instant speed is awesome, and cumulative bonus on your creatures is the cherry on top!</p>
-                <br />
-            </div>
+            </div> 
             
             <h1>B (Be looking for these!)</h1>
             <div>

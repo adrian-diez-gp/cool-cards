@@ -1,4 +1,6 @@
 import React from "react";
+import MainWoe from "./woe/MainWoe"
+import MainLci from "./lci/MainLci"
 import WoeWhite from "./woe/White"
 import LciWhite from "./lci/White"
 import WoeBlue from "./woe/Blue"
@@ -23,6 +25,14 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <App />
+  },
+  {
+    path: "/woe",
+    element: <MainWoe />
+  },
+  {
+    path: "/lci",
+    element: <MainLci />
   },
   {
     path: "/woe/white",

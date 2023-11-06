@@ -47,7 +47,7 @@ function App() {
         </h1>
         <div className="cards-wrapper">
           {cards.map(card => 
-            <div className="colour-card" onClick={() => navigate(`/${card.colour}`) } >
+            <div className="colour-card" onClick={() => navigate(`/woe/${card.colour}`) } >
               <img src={card.bg} height={"300px"} width={"300px"} alt=""/>
               <h2>{card.colour}</h2>
             </div>

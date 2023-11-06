@@ -4,7 +4,6 @@ import { useNavigate } from 'react-router-dom'
 
 
 function App() {
-
   const navigate = useNavigate()
 
 
@@ -45,9 +44,12 @@ function App() {
         <h1>
           Cool cards and where to find them
         </h1>
+        <h2>
+        NEW FORMAT! Follow our BREAD catalog to check the best of the best! <span style={{fontSize:"11px"}}>(A and D might not be available for a couple of years)</span>
+        </h2>
         <div className="cards-wrapper">
           {cards.map(card => 
-            <div className="colour-card" onClick={() => navigate(`/${card.colour}`) } >
+            <div className="colour-card" onClick={() => navigate(`/lci/${card.colour}`) } >
               <img src={card.bg} height={"300px"} width={"300px"} alt=""/>
               <h2>{card.colour}</h2>
             </div>
