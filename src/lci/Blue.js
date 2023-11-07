@@ -17,24 +17,24 @@ export default function Blue() {
 
         <h1>Bombs (Cards that get away with the game if left unchecked)</h1>
         <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/ojertaqdeepestfoundationf.jpg"/>
+            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/ojerpakpatiqdeepestepochf.jpg"/>
             <p><strong>Mythic - Ojer Pakpatik</strong>. An on-rate flyer is always reason good enough to play a card; this 4/3 for 4 is hard to get rid of,
             and will sometimes get you a nice bonus</p>
             <br />
         </div> 
         <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/thousandmoonssmithyf.jpg"/>
+            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/akalpakalfirstamongequalsf.jpg"/>
             <p><strong>Rare - Akal Pakal</strong>. Stealing the show from the mythics come this Mayan diva. "Each player's turn" means 
             this triggers on your and your opponent turn. And if you didn't know, drawing two cards out of the top four every turn cycle is <em>good</em>.</p>
             <br />
         </div> 
         <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/thousandmoonssmithyf.jpg"/>
+            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/subterraneanschoonerf.jpg"/>
             <p><strong>Rare - Subterranean Schooner</strong>. The boat needs to attack to get the trigger, but it is a 3/4 for 2, and the pilot gets bigger! (sometimes).</p>
             <br />
         </div> 
         <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/thousandmoonssmithyf.jpg"/>
+            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/kitesaillarcenistf.jpg"/>
             <p><strong>Rare - Kitesail Larcenist</strong>. Inutilize the strongest creature from the rivals, or turn your useless 1/1 into mana.
              All is possible for this little guy.</p>
             <br />
@@ -44,93 +44,88 @@ export default function Blue() {
         </h3>
         
         <h1>Removal (anything that gets pesky permanents out of the board, with varying efficacy)</h1>
+        <h4>Honorable mention: Kitesail Larcenist. This can remove TWO creatures in 2v2 games!</h4>
         <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/getlostf.jpg" />
-            <p><strong>Uncommon - Hurl into History</strong>. </p>
+            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/hurlintohistoryf.jpg" />
+            <p><strong>Uncommon - Hurl into History</strong>. I like counterspells as much as I hate expensive counterspells. The main reason for playing counters is
+            the mana advantage you get when you pay 3 mana to counter a 5cmc spell, and expensive ones lose that edge. However, I'm willing to play this if it gives me 
+            an X-cost for free (the appropriately costed "counter+draw" would be 2UU, or 3U).</p>
             <br />
         </div>
         <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/sandswirlwanderglyph.jpg" />
-            <p><strong>Rare - Unstable Glyphbridge</strong>. Not the best wrath in the world, but a wrath nonetheless; the flip side is more annoying than needing to pee when it's 
-            your turn to get on a rollercoaster.</p>
+            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/confoundingriddlef.jpg" />
+            <p><strong>Uncommon - Confounding Riddle</strong>. What costs 3 mana and is helpful in 3 scenarios? This is helpful for milling, for answering a big dude or 
+            for finding an answer/a better card when your opponent can pay the counter cost.</p>
             <br />
         </div>
         <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/duskrosereliquaryf.jpg" />
-            <p><strong>Uncommon - Duskrose Reliquary</strong>. It looks bad, and probably is if inherent artifact removal (i.e. things that destroy artifacts as part of their effect 
-            instead of the effect just being "destroy target artifact") is abundant. However, getting rid of ANY artifact or creature for 1 mana is as good an exchange as you could possibly hope for.</p>
+            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/outofair.jpg" />
+            <p><strong>Common - Out of Air</strong>. And speaking of expensive counters... The cost reduction won't usually matter as having UU stretches your mana 
+            too much on the first turns.</p>
             <br />
         </div>
         <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/dauntlessdismantler1.jpg" />
-            <p><strong>Uncommon - Dauntless dismantler</strong>. Annnd here it is, the mass artifact destruction. 
-            For a single W, it gets rid of all artifact tokens (even if they are creatures!)</p>
+            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/brackishblunder.jpg" />
+            <p><strong>Common - Brackish Blunder</strong>. Temporary removal is still removal, but remember this is not a 1 for 1; they get to keep the card.</p>
             <br />
-        </div>
-        <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/springloadedsawbladesf.jpg" />
-            <p><strong>Uncommon - Spring-Loaded Sawblades</strong>. Destroy target "tapped" (attacking) creature for 2 mana is always nice. 
-            The crafted side has applications (see Attentive Sunscribe or Volatile Wonderglyph)</p>
-            <br />
-        </div>
-        <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/quicksandwhirlpool.jpg" />
-            <p><strong>Common - Quicksand Whirlpool</strong>. Too expensive for my liking (paying 6 mana to get rid of a 3 mana creature has never been a good thing) 
-            but chances are that you'll use at least one of these. I'm generally not a fan that removal that needs the opponent to do something (see below)</p>
-            <br />
-        </div>
-        <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/cosmiumblast.jpg" />
-            <p><strong>Cosmium Blast</strong>.  Gideon is no more, so <a href="https://www.mythicspoiler.com/bfz/cards/gideonsreproach.jpg">Gideon's reproach</a> needed a revamp. Like I said, not a fan of
-            removal that needs the opponent to attack/block/tap creatures/etc.</p>
-            <br />
-        </div>
-        <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/petrifyf.jpg" />
-            <p><strong>Petrify</strong>. Pacifism at its best; but remember that it can be bounced and turned back ("craft" abilities get disabled with this though!)</p>
-            <br />
-        </div>
-        <h3>Comments: Lots of different removal in white but we'll more commonly see only the common (heh) ones.</h3>
+       </div>
+
+        <h3>Comments: No surprises here, blue has never been the colour of removal. In 2v2, coutners get more valuable, as there will be twice as many things to counter;
+            but pair them with flash/ instants, to not lose the mana if they plan nothing worth countering.
+        </h3>
         <br />
 
 
         <h1>Evasion (anything that gets through the invariably present ground wall)</h1>
+        <h4>Honorable mention: Kitesail Larcenist. Removal and flyer in one, what can we say?</h4>
+
         <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/resplendentangelf.jpg" />
-            <p><strong>Mythic - Resplendent Angel</strong>.  This reads "3/3 for 1WW" which is already great. If you get an angel for free every turn, the game was already in your favour
-            (make the most of it!)
+            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/malcolmalluringscoundrelf.jpg" />
+            <p><strong>Rare - Malcolm, Alluring Scoundrel</strong>.  Aggressive flyer that will improve your hand (hopefully). In 2v2, you can't choose to attack the player 
+            with no flyers, which is a shame. We attak and block as a team.
              </p>
              <br />
         </div>
         <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/wardenoftheinnersky.jpg" />
-            <p><strong>Rare - Warden of the Inner Sky</strong>. How fast can we fill the board with more pieces of cardboard? That's how good this card is.
+            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/councilofechoesf.jpg" />
+            <p><strong>Uncommon - Council of Echoes</strong>. Big flyer that more often than not will bounce something. Too expensive, but good in combination with other flyers
              </p>
              <br />
         </div>
         <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/sanguineevangelistf.jpg" />
-            <p><strong>Rare - Sanguine Evangelist</strong>.  It is rare not because each of its parts is good, but because of the sum of its parts. Battle Cry
-            can add a lot to the battle. Even if it doesn't connect, the flyers will; and when it dies, it leaves a bat behind.</p>
+            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/merfolkcavediver.jpg" />
+            <p><strong>Uncommon - Merfolk Cave-Diver</strong>.  The Pirate/Artifact deck looks like a thing, and this, despite being a fish, fits nicely into the aggressive/
+            evasive narrative.</p>
             <br />
         </div>
         <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/olteccloudguardf.jpg" />
-            <p><strong>Common - Oltec Cloudguard</strong>.  Fine flyer, comes with an artifact AND creature. Good in several archetypes -but only <em>good</em>.</p>
+            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/waterloggedhulk.jpg" />
+            <p><strong>Uncommon - Waterlogged Hulk</strong>. Yes, it looks like a lot of work, but you know what can attack freely in this world of opression?
+             <a style={{color: "blue"}} href="https://mythicspoiler.com/lci/cards/watertightgondola.jpg">The back side of this card</a>.</p>
             <br />
         </div>
         <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/soaringsandwing.jpg" />
-            <p><strong>Common - Soaring Sandwing</strong>.  Don't be afraid of cycling it early, this is really only good as a topdeck.</p>
+            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/didactechof.jpg" />
+            <p><strong>Common - Didact Echo</strong>.  -Me: I want <a style={{color: "blue"}} href="https://mythicspoiler.com/mdm/cards/mulldrifter.jpg">Mulldrifter</a>. Mom: We have Mulldrifter at home. <br /> The Mulldrifter at home:
+            <br /> (Still good enough, not gonna lie).
+            </p>
             <br />
         </div>
-        <h3>Comments: I expected more from white in terms of flyers. There are a couple of 1/1 for 1 that fly but generally they are not worth it.</h3>
+        <div>
+            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/waterwindscoutf.jpg" />
+            <p><strong>Common - Waterwind Scout</strong>.  The versatility of a <a style={{color: "blue"}} href="https://mythicspoiler.com/kld/cards/winddrake.jpg">Wind Drake</a> 
+             that can become a <a style={{color: "blue"}} href="https://cards.scryfall.io/large/front/b/5/b5cddd47-8c2b-47de-bf82-e810d4cf4df4.jpg?1562853413">Phantom Monster</a> or allow another creature to get big. Yum!
+            </p>
+            <br />
+        </div>
+        <h3>Comments: Tons of flyers around, so we'll have to save our removal spells for those.</h3>
         <br />
 
         <h1>Anything else (good cards in general, or archetype-defining)</h1>
             <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/marketgnomef.jpg" />
-            <p><strong>Uncommon - Market Gnome</strong>. The all-star of both sacrifice and craft archetypes.Also an early wall against aggro decks. Good to have in mind!
+            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/spyglasssirenf.jpg" />
+            <p><strong>Uncommon - Spyglass Siren</strong>. We've talked about the Pirate/Evasive/Artifact/Aggressive deck before, right? (PEAA for short). This looks like the 
+            flagship of this archetype, being a pirate, a flyer, a 2/2 for 1(+1), and an artifact. Usually I say don't play 1-drops, but this is definitely worth it!
             </p>
             <br />
         </div>
