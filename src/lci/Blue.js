@@ -130,43 +130,30 @@ export default function Blue() {
             <br />
         </div>
         <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/malametwarscribef.jpg" />
-            <p><strong>Uncommon - Malamet War Scribe</strong>. Much better in 1-to-1 matches than 2 vs 2 due to the effect only happening to half the board. Token finisher.
+            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/shipwrecksentryf.jpg" />
+            <p><strong>Common - Shipwreck Sentry</strong>. With enough artifact support, this can get in the first points of damage. It gtes outclassed easily, but then it'll be time for 
+            the next beaters to attack.
             </p>
             <br />
         </div>
         <div>
             <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/kinjallisdawnrunnerf.jpg" />
-            <p><strong>Uncommon - Kinjalli's Dawnrunner</strong>. If voltron is an archetype, this guy is its harbinger. That means it is the ideal guy
-            to put auras/equipments on it. A high-risk, high-reward strategy, better in individual than in 2HG (two-headed giant).</p>
-            <p>
-                <em>Edit</em>: It seems that there are <a href="https://mythicspoiler.com/lci/cards/mightoftheancestors.jpg">many</a>,
-                 <a href="https://mythicspoiler.com/lci/cards/ironpawaspirant.jpg">many</a>, <a href="https://mythicspoiler.com/lci/cards/glorifierofsuffering.jpg"><em>many</em></a>
-                 cards that play with creatures' power, so this can be a good asset in the right deck. <a href="https://mythicspoiler.com/lci/cards/familyreunion.jpg">This card</a>
-                 can be used for protection from the feared removal.
+            <p><strong>Uncommon - Chart a Course</strong>. An old friend from the original Ixalan is back, and it is just as good as it was. Draw 2 effects usually cost 2U, so this 
+            is a nice upgrade to have.
             </p>
             <br />
         </div>
         <div>
             <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/ruinlurkerbat.jpg" />
-            <p><strong>Uncommon - Ruin-Lurker Bat</strong>. At common, this would have been nice; this is a disgrace. Even so, good for the life matters decks, if there are any.</p>
+            <p><strong>Uncommon - Self-Reflection</strong>. A nice card... to mill. Too expensive to play, but good from the graveyard.</p>
             <br />
         </div>
-        <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/tinkerstote.jpg" />
-            <p><strong>Common - Tinker's Tote</strong>. This is three artifacts and two creatures packed in one card. Even my tote bag doesn't have that many,
-            and I paid no mana for it!</p>
-            <br />
-        </div>  <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/envoyofokinecahau.jpg" />
-            <p><strong>Common - Envoy of Okinec Ahau</strong>. Don't be fooled by his whiskers and his card type, this cat is a beast! A 3/3 for 3 is never bad,
-            and if you happen to have more mana than things to do with it... magic happens</p>
-            <br />
-        </div>
+        
 
-        <h3>Comments: At first glance, it seems that the artifact theme in white is much stronger than the creature one. In 1 vs 1, the token archetype might 
-            prove too fast or too wide for some decks to play against, but in 2v2 the fact that both opponents can play one creature each dilutes the aggressive
-            power of the tokens. It has some of the strongest removals in the set.
+        <h3>Comments: It looks like blue is going to be very tempo-driven, taking advantage of the first turns of the game to establish a board and 
+            play from there. In this game, as 2v2 often are slower matchups (and start at 30 life), tempo decks are only useful in combination with 
+            another aggro deck. A good tempo deck + a good aggro deck seem unstoppable to opponents. churning creature after creature at a rate faster than they can 
+            answer them.
         </h3>
 
         <div style={{color:"blue"}} onClick={() => navigate('/lci')}><b>Back to colour selection</b></div>
