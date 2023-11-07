@@ -99,18 +99,18 @@ export default function White() {
                  <br />
             </div>
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/strokeofmidnightf.jpg" />
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/sanguineevangelistf.jpg" />
                 <p><strong>Rare - Sanguine Evangelist</strong>.  It is rare not because each of its parts is good, but because of the sum of its parts. Battle Cry
                 can add a lot to the battle. Even if it doesn't connect, the flyers will; and when it dies, it leaves a bat behind.</p>
                 <br />
             </div>
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/strokeofmidnightf.jpg" />
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/olteccloudguardf.jpg" />
                 <p><strong>Common - Oltec Cloudguard</strong>.  Fine flyer, comes with an artifact AND creature. Good in several archetypes -but only <em>good</em>.</p>
                 <br />
             </div>
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/strokeofmidnightf.jpg" />
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/soaringsandwing.jpg" />
                 <p><strong>Common - Soaring Sandwing</strong>.  Don't be afraid of cycling it early, this is really only good as a topdeck.</p>
                 <br />
             </div>
@@ -119,35 +119,41 @@ export default function White() {
 
             <h1>Anything else (good cards in general, or archetype-defining)</h1>
                 <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/resplendentangelf.jpg" />
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/marketgnomef.jpg" />
                 <p><strong>Uncommon - Market Gnome</strong>. The all-star of both sacrifice and craft archetypes.Also an early wall against aggro decks. Good to have in mind!
                 </p>
                 <br />
             </div>
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/wardenoftheinnersky.jpg" />
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/malametwarscribef.jpg" />
                 <p><strong>Uncommon - Malamet War Scribe</strong>. Much better in 1-to-1 matches than 2 vs 2 due to the effect only happening to half the board. Token finisher.
                 </p>
                 <br />
             </div>
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/solitarysanctuary.jpg" />
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/kinjallisdawnrunnerf.jpg" />
                 <p><strong>Uncommon - Kinjalli's Dawnrunner</strong>. If voltron is an archetype, this guy is its harbinger. That means it is the ideal guy
                 to put auras/equipments on it. A high-risk, high-reward strategy, better in individual than in 2HG (two-headed giant).</p>
+                <p>
+                    <em>Edit</em>: It seems that there are <a href="https://mythicspoiler.com/lci/cards/mightoftheancestors.jpg">many</a>,
+                     <a href="https://mythicspoiler.com/lci/cards/ironpawaspirant.jpg">many</a>, <a href="https://mythicspoiler.com/lci/cards/glorifierofsuffering.jpg"><em>many</em></a>
+                     cards that play with creatures' power, so this can be a good asset in the right deck. <a href="https://mythicspoiler.com/lci/cards/familyreunion.jpg">This card</a>
+                     can be used for protection from the feared removal.
+                </p>
                 <br />
             </div>
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/plungeintowinter.jpg" />
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/ruinlurkerbat.jpg" />
                 <p><strong>Uncommon - Ruin-Lurker Bat</strong>. At common, this would have been nice; this is a disgrace. Even so, good for the life matters decks, if there are any.</p>
                 <br />
             </div>
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/knightofdovesf.jpg" />
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/tinkerstote.jpg" />
                 <p><strong>Common - Tinker's Tote</strong>. This is three artifacts and two creatures packed in one card. Even my tote bag doesn't have that many,
                 and I paid no mana for it!</p>
                 <br />
             </div>  <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/knightofdovesf.jpg" />
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/envoyofokinecahau.jpg" />
                 <p><strong>Common - Envoy of Okinec Ahau</strong>. Don't be fooled by his whiskers and his card type, this cat is a beast! A 3/3 for 3 is never bad,
                 and if you happen to have more mana than things to do with it... magic happens</p>
                 <br />
