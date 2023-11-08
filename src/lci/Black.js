@@ -18,49 +18,53 @@ export default function Black() {
             <h1>Bombs (Cards that get away with the game if left unchecked)</h1>
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/ashiokwickedmanipulator.jpg"/>
-                <p><strong>Ojer Taq</strong>. Gorgeous card for token decks, but a recursive 6/6 is more than enough to win by itself.</p>
+                <p><strong>Aclazotz</strong>. Every time "each opponent" appears, consider the power of that card to go up by 1.5x.
+                That's how strong this is!</p>
                 <br />
             </div> 
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/virtueofpersistencef.jpg"/>
-                <p><strong>Thousand Moon Smithy</strong>. THis and the token it creates count towards flipping it, and the flip side will get you
-                basically a <a href="https://mythicspoiler.com/woe/cards/regalbunnicornf.jpg">bunnycorn</a> per turn. Reaaaally good.</p>
+                <p><strong>Starving Revenant</strong>. High risk, high reward card. The fact that it needs 8 PERMANENT cards makes me play almost no spells in that deck.
+                Even if the support isn't there normally (i.e. there are no permanents that have the effect of a spell attached (see <a>Murder</a> being attached to
+                <a>Ravenous Chupacabra</a>)), the fact that in a 2v2 we can split all spells in one deck and all permanents in another is a nice upside.</p>
                 <br />
             </div> 
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/beseechthemirrorf.jpg"/>
-                <p><strong>Rating: A+</strong>. The money pick. You want your draft to be free? You pick this!</p>
+                <p><strong>Stalactite Stalker</strong>. Not Literally a bomb, but does everything. Gets in the first few turns, gets big passively and can kill something later on.
+                23 of these, 17 lands and you're set.</p>
                 <br />
             </div> 
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/devouringsugarmawf.jpg"/>
-                <p><strong>Rating: A-</strong>. You'll need a white/black deck or a lot of rats to make this work, but the power to mana rate is ludicrous.</p>
+                <p><strong>Terror Tide</strong>. The reset button of the set. Always keep it in your deck. Play this before your creatures.</p>
                 <br />
             </div> 
-            <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/gumdroppoisonerf.jpg"/>
-                <p><strong>Rating: A-</strong>. Removal is always good, and this card sets you up to kill something for 1 mana (make food) + 5 mana 
-                (sac food, cast this).</p>
-                <br />
-            </div> 
+            <h3>
+                Comments: Not a lot of bombs in black, but a ton of good cards (see below). I anticipate Black to be very stable.
+            </h3>
 
-            <h1>B (Be looking for these!)</h1>
+            <h1>Removal (anything that gets pesky permanents out of the board, with varying efficacy)</h1>
+
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/specterofmortalityf.jpg"/>
-                <p><strong>Rating: B+</strong>. Remember what I said about removal? This needs some setup (critters in graveyards) 
-                so I rate it a little lower. A 3/3 flyer for 5, as you know from pauper cube, is nothing to scoff at.</p>
+                <p><strong>Malicious Eclipse</strong>. 
+                    Not as strong as the rare one, but still good to have. It's enough if you get equal on board presence after this, as you'll be the one playing things first.
+                </p>
                 <br />
             </div> 
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/cruelsomnophage.jpg"/>
-                <p><strong>Rating: B</strong>. In creature heavy matches, this will be a 5/5 for 1B or more in the late game. It's usually better to mill yourself
-                because of the blue and black cards that can recover this from your graveyard, unless he only has 4 cards left in his library (he he).</p>
+                <p><strong>Bitter Triumph</strong>. 
+                    Premium removal; in 2v2, you start at 30 life, so you've got plenty to spare.
+                </p>
                 <br />
             </div> 
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/lordskittersewerkingf.jpg"/>
-                <p><strong>Rating: B</strong>. <a href="https://mythicspoiler.com/woe/cards/bitterblossomf.jpg">Bad Bitterblossom</a> that exiles graveyards is always
-                a solid option! If you're well set in two colours already, I would choose some other card (that's the standard for B rank cards and lower).</p>
+                <p><strong>Abyssal Gorestalker</strong>. 
+                    In the right deck, this is a wrath.
+                </p>
                 <br />
             </div> 
             <div>
