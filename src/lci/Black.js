@@ -48,68 +48,79 @@ export default function Black() {
 
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/specterofmortalityf.jpg"/>
-                <p><strong>Malicious Eclipse</strong>. 
+                <p><strong>Uncommon - Malicious Eclipse</strong>. 
                     Not as strong as the rare one, but still good to have. It's enough if you get equal on board presence after this, as you'll be the one playing things first.
                 </p>
                 <br />
             </div> 
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/cruelsomnophage.jpg"/>
-                <p><strong>Bitter Triumph</strong>. 
+                <p><strong>Uncommon - Bitter Triumph</strong>. 
                     Premium removal; in 2v2, you start at 30 life, so you've got plenty to spare.
                 </p>
                 <br />
             </div> 
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/lordskittersewerkingf.jpg"/>
-                <p><strong>Abyssal Gorestalker</strong>. 
-                    In the right deck, this is a wrath.
+                <p><strong>Uncommon - Abyssal Gorestalker</strong>. 
+                    In the right deck, this is a wrath. Nuff said.
                 </p>
                 <br />
             </div> 
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/lordskittersblessingf.jpg"/>
-                <p><strong>Rating: B+</strong>. For the low low price of already having a creature on the battlefield, this draws and extra card per turn.
-                You know what that means.</p>
+                <p><strong>Common - Tithing Blade</strong>
+                    With the incredible amount of experience in this format that I have, I'll go ahead and say that this is good in 2v2. How many tokens will nullify this ability is yet
+                    to be seen. Now the flip side? In 2v2? And in multiples? Wow.
+                </p>
                 <br />
             </div> 
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/backforsecondsf.jpg"/>
-                <p><strong>Rating: B</strong>. You choose a creature with an etb (enter the battlefield) effect, you get it right away. A creature
-                wit ha relevant adventure? To my hand, love!! The swings this card creates are ones for the legends.</p>
+                <p><strong>Common - Ray of Ruin</strong>. 
+                    This is the removal to play when you don't have removal. Terribly overcosted, without a proper payoff.
+                </p>
                 <br />
             </div> 
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/ashioksreaperf.jpg"/>
-                <p><strong>Rating: B-</strong>. Roles all day long, baby!! Usually you want them on different creatures because each can have only one role on 
-                at any given time, but if they net you cards, go for it.</p>
-                <br />
-            </div> 
-            <h2>HONORABLE MENTIONS: BLUE/BLACK</h2>
-            <h4>If you're set into faeries (or you wanna!) pick these much much higher than the rest. You'll thank me later.</h4>
-            <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/faeriefencingf.jpg"/>
-                <p><strong>Rating: C+/A with faeries</strong>. You won't understand the power that killing a 3 mana creature for one mana, and 
-                making a play in the same turn, has until you experience it yourself!.</p>
+                <p><strong>Common - Join the Dead</strong>. 
+                    Sooo many creatures are going to die to this, especially at common.  Use all you can (bearing in mind that these are not permanent cards for Descend!)
+                </p>
                 <br />
             </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/egodrainf.jpg"/>
-                <p><strong>Rating: C-/A with faeries</strong>. ONLY good if this is the last card in your hand, or if you control a faerie AS THIS RESOLVES (if
-                they kill it in response, you'll have to exile a card from your hand, and we don't want that!).</p>
+                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/ashioksreaperf.jpg"/>
+                <p><strong>Common - Dead Weight</strong>. 
+                    This IS a permanent that kills, but only small creatures. One is probably okay.
+                </p>
                 <br />
-            </div>
+            </div> 
+            <div>
+                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/ashioksreaperf.jpg"/>
+                <p><strong>Common - Chupacabra Echo</strong>. 
+                    This will realistically be a -2/-2 spell attached to a creature most of the time, but it might be enough in this metagame.
+                </p>
+                <br />
+            </div> 
+            <h3>
+                Comments: it seems that everything kills in black, so the real challenge will be how to choose the right proportions of spells if you 
+                have Descend cards
+            </h3>
+            
 
-            <h1>C (Cards that will make the cut, or that need support from other cards)</h1>
+            <h1>Evasion (anything that gets through the invariably present ground wall)</h1>
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/highfaenegotiator.jpg"/>
-                <p><strong>Rating: C-</strong>. Strong swing, but only take it if you don't have a good way to finish the game.</p>
+                <p><strong>Mythic - Bloodletter of Aclazotz</strong>. 
+                Deceptively bad, as you probably won't have three black mana to play this on curve. But still good! Just not amazing ):
+                </p>
                 <br />
             </div> 
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/hopelessnightmaref.jpg"/>
-                <p><strong>Rating: C+</strong>. Black is the colour of bargain, and bargain it does well. This is a lot of small good things for one mana, which means
-                little investment and good returns. :)</p>
+                <p><strong>Rare - Bringer of the Las Gift</strong>. 
+                I don't know how to evaluate this, except that is more expensive than a night with the Kardashians. I guess it's better if you've been behind all game?</p>
                 <br />
             </div>
             <div>
