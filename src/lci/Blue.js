@@ -137,14 +137,14 @@ export default function Blue() {
             <br />
         </div>
         <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/kinjallisdawnrunnerf.jpg" />
+            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/chartacoursef.jpg" />
             <p><strong>Uncommon - Chart a Course</strong>. An old friend from the original Ixalan is back, and it is just as good as it was. Draw 2 effects usually cost 2U, so this 
             is a nice upgrade to have.
             </p>
             <br />
         </div>
         <div>
-            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/ruinlurkerbat.jpg" />
+            <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/selfreflectionf.jpg" />
             <p><strong>Uncommon - Self-Reflection</strong>. A nice card... to mill. Too expensive to play, but good from the graveyard.</p>
             <br />
         </div>
