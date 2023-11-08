@@ -17,26 +17,26 @@ export default function Black() {
 
             <h1>Bombs (Cards that get away with the game if left unchecked)</h1>
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/ashiokwickedmanipulator.jpg"/>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/aclazotzdeepestbetrayalf.jpg"/>
                 <p><strong>Aclazotz</strong>. Every time "each opponent" appears, consider the power of that card to go up by 1.5x.
                 That's how strong this is!</p>
                 <br />
             </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/virtueofpersistencef.jpg"/>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/starvingrevenant.jpg"/>
                 <p><strong>Starving Revenant</strong>. High risk, high reward card. The fact that it needs 8 PERMANENT cards makes me play almost no spells in that deck.
                 Even if the support isn't there normally (i.e. there are no permanents that have the effect of a spell attached (see <a>Murder</a> being attached to
                 <a>Ravenous Chupacabra</a>)), the fact that in a 2v2 we can split all spells in one deck and all permanents in another is a nice upside.</p>
                 <br />
             </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/beseechthemirrorf.jpg"/>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/stalactitestalkerf.jpg"/>
                 <p><strong>Stalactite Stalker</strong>. Not Literally a bomb, but does everything. Gets in the first few turns, gets big passively and can kill something later on.
                 23 of these, 17 lands and you're set.</p>
                 <br />
             </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/devouringsugarmawf.jpg"/>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/terrortidef.jpg"/>
                 <p><strong>Terror Tide</strong>. The reset button of the set. Always keep it in your deck. Play this before your creatures.</p>
                 <br />
             </div> 
@@ -47,28 +47,28 @@ export default function Black() {
             <h1>Removal (anything that gets pesky permanents out of the board, with varying efficacy)</h1>
 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/specterofmortalityf.jpg"/>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/maliciouseclipse.jpg"/>
                 <p><strong>Uncommon - Malicious Eclipse</strong>. 
                     Not as strong as the rare one, but still good to have. It's enough if you get equal on board presence after this, as you'll be the one playing things first.
                 </p>
                 <br />
             </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/cruelsomnophage.jpg"/>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/bittertriumph.jpg"/>
                 <p><strong>Uncommon - Bitter Triumph</strong>. 
                     Premium removal; in 2v2, you start at 30 life, so you've got plenty to spare.
                 </p>
                 <br />
             </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/lordskittersewerkingf.jpg"/>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/abyssalgorestalker.jpg"/>
                 <p><strong>Uncommon - Abyssal Gorestalker</strong>. 
                     In the right deck, this is a wrath. Nuff said.
                 </p>
                 <br />
             </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/lordskittersblessingf.jpg"/>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/tithingblade.jpg"/>
                 <p><strong>Common - Tithing Blade</strong>
                     With the incredible amount of experience in this format that I have, I'll go ahead and say that this is good in 2v2. How many tokens will nullify this ability is yet
                     to be seen. Now the flip side? In 2v2? And in multiples? Wow.
@@ -76,28 +76,28 @@ export default function Black() {
                 <br />
             </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/backforsecondsf.jpg"/>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/rayofruin.jpg"/>
                 <p><strong>Common - Ray of Ruin</strong>. 
                     This is the removal to play when you don't have removal. Terribly overcosted, without a proper payoff.
                 </p>
                 <br />
             </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/ashioksreaperf.jpg"/>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/jointhedead.jpg"/>
                 <p><strong>Common - Join the Dead</strong>. 
                     Sooo many creatures are going to die to this, especially at common.  Use all you can (bearing in mind that these are not permanent cards for Descend!)
                 </p>
                 <br />
             </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/ashioksreaperf.jpg"/>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/deadweight.jpg"/>
                 <p><strong>Common - Dead Weight</strong>. 
                     This IS a permanent that kills, but only small creatures. One is probably okay.
                 </p>
                 <br />
             </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/ashioksreaperf.jpg"/>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/chupacabraechof.jpg"/>
                 <p><strong>Common - Chupacabra Echo</strong>. 
                     This will realistically be a -2/-2 spell attached to a creature most of the time, but it might be enough in this metagame.
                 </p>
@@ -111,15 +111,15 @@ export default function Black() {
 
             <h1>Evasion (anything that gets through the invariably present ground wall)</h1>
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/highfaenegotiator.jpg"/>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/bloodletterofaclazotzf.jpg"/>
                 <p><strong>Mythic - Bloodletter of Aclazotz</strong>. 
                 Deceptively bad, as you probably won't have three black mana to play this on curve. But still good! Just not amazing ):
                 </p>
                 <br />
             </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/hopelessnightmaref.jpg"/>
-                <p><strong>Rare - Bringer of the Las Gift</strong>. 
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/bringerofthelastgiftf.jpg"/>
+                <p><strong>Rare - Bringer of the Last Gift</strong>. 
                 I don't know how to evaluate this, except that is more expensive than a night with the Kardashians. I guess it's better if you've been behind all game?</p>
                 <br />
             </div>
