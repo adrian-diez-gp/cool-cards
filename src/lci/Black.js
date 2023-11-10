@@ -12,7 +12,7 @@ export default function Black() {
             <div onClick={() => navigate('/')}><b>Home</b></div>
             <div onClick={() => navigate('/lci')}><b>Back</b></div>
 
-            <div>This page will follow the acronym BREAD (Bombs, Removal, Evasion, Anything else, Don't play).</div>
+            <div>This page will follow the acronym BREAD (Bombs, Removal, Evasion, Anything else, Don't play). </div>
             <div>However, due to time constraints, only the BRE part will be done.</div>
 
             <h1>Bombs (Cards that get away with the game if left unchecked)</h1>
