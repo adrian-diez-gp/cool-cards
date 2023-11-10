@@ -125,19 +125,19 @@ export default function Black() {
                 <br />
             </div>
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/takenbynightmares.jpg"/>
+                <img className='card-wrapper' src="https://www.mythicspoiler.com/lci/cards/deepcavernbatf.jpg"/>
                 <p><strong>Uncommon - Deep-Cavern Bat</strong>. It seems that there's going to be 
                 a 1/1 flyer in each colour, so pingers in red (if there are any) will get very valued.</p>
                 <br />
             </div>
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/feedthecauldron.jpg"/>
+                <img className='card-wrapper' src="https://www.mythicspoiler.com/lci/cards/screamingphantom.jpg"/>
                 <p><strong>Common - Screaming Phantom</strong>. If you get this, it will be because of the self mill. That being said, with proper 
                 payoffs it can become good.</p>
                 <br />
             </div>
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/candygrapple.jpg"/>
+                <img className='card-wrapper' src="https://www.mythicspoiler.com/lci/cards/deepgoblinskulltaker.jpg"/>
                 <p><strong>Common - Deep Goblin Skulltaker</strong>. In an aggressive deck, this does wonders. Menace of big creatures is always 
                 good, especially if backed up with some spells.</p>
                 <br />
@@ -146,30 +146,7 @@ export default function Black() {
 
             <h1>Anything else (good cards in general, or archetype-defining)</h1>
             <h3>IN CONSTRUCTION</h3>
-            <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/lordskittersbutcherf.jpg"/>
-                <p><strong>Rating: C+</strong>. I'm all for creatures that are good at any moment of the game.</p>
-                <br />
-            </div>
-            <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/voraciousvermin.jpg"/>
-                <p><strong>Rating: C</strong>. At its base, it's 3/2 worth of power that will go on a single creature when you eventually bargain the rat away.
-                The ceiling is that you have all the rats in the world, and this becomes a 7/6 for 3 mana. Not too shabby!</p>
-                <br />
-            </div>
-            <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/warehousetabbyf.jpg"/>
-                <p><strong>Rating: C-</strong>. And speaking of shabby, let's talk about the tabby! The more roles you have in your deck, the better this becomes.
-                A wall if you have the two mana per turn to support it (the threat to activate it is stronger than the activation itself), a trade-up in the late game no matter what.
-                </p>
-                <br />
-            </div>
-            <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/twistedsewerwitch.jpg"/>
-                <p><strong>Rating: C-/C+</strong>. Good-ish by itself, but play it with a few rats on the battlefield and suddenly your board is unstoppable.
-                Even better if played when your opponent is already low in life to gain inevitability from your roles.</p>
-                <br />
-            </div>
+            
         </div>
     )
 }
