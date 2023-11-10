@@ -3,6 +3,7 @@ import React from "react";
 import '../App.css';
 import { useNavigate } from 'react-router-dom'
 
+/* eslint-disable jsx-a11y/alt-text */
 
 export default function Black() {
     const navigate = useNavigate()
@@ -142,6 +143,9 @@ export default function Black() {
                 <br />
             </div>
             <h3>Comments: not a lot of evasive creatures, so black's value seems to come from self-mill and premium removal. Okay, I can get behind that!</h3>
+
+            <h1>Anything else (good cards in general, or archetype-defining)</h1>
+            <h3>IN CONSTRUCTION</h3>
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/lordskittersbutcherf.jpg"/>
                 <p><strong>Rating: C+</strong>. I'm all for creatures that are good at any moment of the game.</p>
