@@ -110,6 +110,10 @@ export default function Red() {
             </div>       
             <h3>Comments: It feels like everything in red kills! We'll have to be very careful about which spells we pick.</h3>
 
+            <h1>Evasion (anything that gets through the invariably present ground wall)</h1>
+            <p>It seems that red doesn't have evasion; instead, it has undercosted creatures (like 4/3 for 3), so there will be a tension in deckbuilding:
+                do you go for small evasive creatures that can't be blocked, or do you go for big chompers that can be double blocked?
+            </p>
 
             <h1>Anything else (good cards in general, or archetype-defining)</h1>
             <h3>IN CONSTRUCTION</h3>
