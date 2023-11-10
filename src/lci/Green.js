@@ -10,32 +10,37 @@ export default function Green() {
     return (
         <div className="colour-page-wrapper">
             <div onClick={() => navigate('/')}><b>Home</b></div>
+            <div onClick={() => navigate('/lci')}><b>Back</b></div>
 
-            <h1>A (Always get them)</h1>    
+            <div>This page will follow the acronym BREAD (Bombs, Removal, Evasion, Anything else, Don't play).</div>
+            <div>However, due to time constraints, only the BRE part will be done.</div>
+
+            <h1>Bombs (Cards that get away with the game if left unchecked)</h1>
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/elvisharchivistf.jpg"/>
-                <p><strong>Rating: A</strong>. This needs some setup to be goo-HAHAHA! Look at how many cards in this set
-                put artifacts and/or enchantments into play, and you'll realise that this is a BEAST. Drop a color if you see one,
-                you're now green/X.</p>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/ojertaqdeepestfoundationf.jpg"/>
+                <p><strong>Mythic - Ojer Kaslem</strong>. Holy mother of dinosaurs, this is GOOD! It never even really dies! Love it.</p>
                 <br />
             </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/elvisharchivistf.jpg"/>
-                <p><strong>Rating: A+</strong>. Literally the only time I wouldn't pick this is pack 3. This is 3 3/3, that
-                become two 6/6, that becomes a 12/12, all with trample. WHAT?! Imagine if you could recur it from the graveyard... e.e</p>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/ojertaqdeepestfoundationf.jpg"/>
+                <p><strong>Mythic - Huatli</strong>. As a mythic, it really could be worse. Only pay the 5 when you know they're not gonna kill her in response.</p>
                 <br />
             </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/mosswooddreadknightf.jpg"/>
-                <p><strong>Rating: A-</strong>. Slow, but can become a wall if you need it. This blocks X/3, trades, then gets you a card and comes back (if you get a way to
-                get black mana).</p>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/ojertaqdeepestfoundationf.jpg"/>
+                <p><strong>Mythic - Ghalta</strong>. To be fair, this <strong>does</strong> get away with the game if not checked.</p>
                 <br />
             </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/gingerbreadhunterf.jpg"/>
-                <p><strong>Rating: A-</strong>. A reason to look for black mana. Two real cards in one? And it's a cost 5 to boot! All the sinergies are there!</p>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/ojertaqdeepestfoundationf.jpg"/>
+                <p><strong>Mythic - The Skullspore Nexus</strong>. Get your Abrades ready, this can't stay on the battlefield. This is best in Red/Green, as it looks like
+                all the powerful creatures are going to be there. Let in an attacking 5/5? It suddenly becomes a 10/5. Scary.</p>
                 <br />
             </div> 
+            <h3>
+                Comments: The only reason I didn't include any rares in here is because the mythics are so damn busted. Almost all rares seem, at least, good (at most, freakish).
+            </h3>
+
 
             <h1>B (Be looking for these!)</h1>
             <div>
