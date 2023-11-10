@@ -17,22 +17,22 @@ export default function Green() {
 
             <h1>Bombs (Cards that get away with the game if left unchecked)</h1>
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/ojertaqdeepestfoundationf.jpg"/>
+                <img className='card-wrapper' src="https://www.mythicspoiler.com/lci/cards/ojerkaslemdeepestgrowthf.jpg"/>
                 <p><strong>Mythic - Ojer Kaslem</strong>. Holy mother of dinosaurs, this is GOOD! It never even really dies! Love it.</p>
                 <br />
             </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/ojertaqdeepestfoundationf.jpg"/>
+                <img className='card-wrapper' src="https://www.mythicspoiler.com/lci/cards/huatlipoetofunityf.jpg"/>
                 <p><strong>Mythic - Huatli</strong>. As a mythic, it really could be worse. Only pay the 5 when you know they're not gonna kill her in response.</p>
                 <br />
             </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/ojertaqdeepestfoundationf.jpg"/>
+                <img className='card-wrapper' src="https://www.mythicspoiler.com/lci/cards/ghaltastampedetyrantf.jpg"/>
                 <p><strong>Mythic - Ghalta</strong>. To be fair, this <strong>does</strong> get away with the game if not checked.</p>
                 <br />
             </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/ojertaqdeepestfoundationf.jpg"/>
+                <img className='card-wrapper' src="https://www.mythicspoiler.com/lci/cards/theskullsporenexusf.jpg"/>
                 <p><strong>Mythic - The Skullspore Nexus</strong>. Get your Abrades ready, this can't stay on the battlefield. This is best in Red/Green, as it looks like
                 all the powerful creatures are going to be there. Let in an attacking 5/5? It suddenly becomes a 10/5. Scary.</p>
                 <br />
@@ -44,24 +44,23 @@ export default function Green() {
 
             <h1>Removal (anything that gets pesky permanents out of the board, with varying efficacy)</h1>
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/getlostf.jpg" />
+                <img className='card-wrapper' src="https://www.mythicspoiler.com/lci/cards/huatlisfinalstrike.jpg" />
                 <p><strong>Uncommon - Huatli's Final Strike</strong>.Green is not known for its removals, and the best they have are bites like this, fights or combat tricks.</p>
                 <br />
             </div>
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/unstableglyphbridgef.jpg" />
-                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/sandswirlwanderglyph.jpg" />
+                <img className='card-wrapper' src="https://www.mythicspoiler.com/lci/cards/thrashingbrontodonf.jpg" />
                 <p><strong>Uncommon - Thrashing Brontodon</strong>. Another old friend, this time is so much better. Over-rate power toughness and a 
                 veeerry useful ability! Removal (of artifacts).</p>
                 <br />
             </div>
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/duskrosereliquaryf.jpg" />
-                <p><strong>Uncommon - Malamet Battle Glyph</strong>. In the color of the best creatures, this seems fair. If it cost more than G, I wouldn't want it tho.</p>
+                <img className='card-wrapper' src="https://www.mythicspoiler.com/lci/cards/malametbattleglyph.jpg" />
+                <p><strong>Uncommon - Malamet Battle Glyph</strong>. In the colour of the best creatures, this seems fair. If it cost more than G, I wouldn't want it tho.</p>
                 <br />
             </div>
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/dauntlessdismantler1.jpg" />
+                <img className='card-wrapper' src="https://www.mythicspoiler.com/lci/cards/staggeringsize.jpg" />
                 <p><strong>Common - Staggering Size</strong>. CAPYBARA SMASHHHH</p>
                 <br />
             </div>
