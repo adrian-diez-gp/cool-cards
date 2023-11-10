@@ -105,7 +105,7 @@ export default function Red() {
             <div>
                 <img className='card-wrapper' src="https://www.mythicspoiler.com/lci/cards/sunshotmilitia.jpg"/>
                 <img className='card-wrapper' src="https://www.mythicspoiler.com/lci/cards/panickedaltisaur.jpg"/>
-                <p>These are removal... <em>of people >:)</em></p>
+                <p>These are removal... <em>of people &gt;:)</em></p>
                 <br />
             </div>       
             <h3>Comments: It feels like everything in red kills! We'll have to be very careful about which spells we pick.</h3>
