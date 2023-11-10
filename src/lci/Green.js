@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom'
 
 import React from "react";
 import '../App.css';
+/* eslint-disable jsx-a11y/alt-text */
 
 export default function Green() {
     const navigate = useNavigate()
