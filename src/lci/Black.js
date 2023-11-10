@@ -26,8 +26,8 @@ export default function Black() {
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/starvingrevenant.jpg"/>
                 <p><strong>Rare - Starving Revenant</strong>. High risk, high reward card. The fact that it needs 8 PERMANENT cards makes me play almost no spells in that deck.
-                Even if the support isn't there normally (i.e. there are no permanents that have the effect of a spell attached (see <a>Murder</a> being attached to
-                <a>Ravenous Chupacabra</a>)), the fact that in a 2v2 we can split all spells in one deck and all permanents in another is a nice upside.</p>
+                Even if the support isn't there normally (i.e. there are no permanents that have the effect of a spell attached (see <a href="https://www.mythicspoiler.com/cn2/cards/murder1.jpg">Murder</a> being attached to
+                <a href="https://mythicspoiler.com/rix/cards/ravenouschupacabra.jpg">Ravenous Chupacabra</a>)), the fact that in a 2v2 we can split all spells in one deck and all permanents in another is a nice upside.</p>
                 <br />
             </div> 
             <div>
