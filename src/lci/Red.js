@@ -11,67 +11,92 @@ export default function Red() {
         <div className="colour-page-wrapper">
             <div onClick={() => navigate('/')}><b>Home</b></div>
 
-            <h1>A (Always393164193421949 get them)</h1>
+            <h1>Bombs (Cards that get away with the game if left unchecked)</h1>
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/goddriccloakedrevelerf.jpg"/>
-                <p><strong>Rating: A</strong>. Consider going red if you find this. 4 damage each turn with no real investment is niiiice.</p>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/aclazotzdeepestbetrayalf.jpg"/>
+                <p><strong>Mythic - Inti, Senechal of the Sun</strong>. ASDfhasflhasfkjh.</p>
                 <br />
             </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/redcapgutterdwellerf.jpg"/>
-                <p><strong>Rating: A-</strong>. Nice stats, an extra draw each turn, bargain fodder... This little fella has everything!</p>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/starvingrevenant.jpg"/>
+                <p><strong>Mythic - Bonehoard Dragosaur</strong>. AÑKSDFJHAKLJFHADKLH</p>
                 <br />
             </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/realmscorcherhellkitef.jpg"/>
-                <p><strong>Rating: A</strong>. In a format with lots of removal for little creatures, this is bound to stay.
-                Bargain it, kill two rats, DESTROY HIM</p>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/stalactitestalkerf.jpg"/>
+                <p><strong>Rare - Brass's Tunnel-Grinder</strong>. Let's grind some people's tunnels. Card selection into (eventually) free discovers
+                every turn is what I call a sure victory! All the while enabling Descend. The red rare bomb!</p>
                 <br />
             </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/songoftotentanzf.jpg"/>
-                <p><strong>Rating: A-</strong>. Good for X=10, good for X=1 if you need haste. The rat sinergies go crrrazy with this</p>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/terrortidef.jpg"/>
+                <p><strong>Rare - Dire Flail</strong>. Equipments were good the first time they appeared, like many other mechanics in this 
+                game. Then they became bad, like many other mechanics in this game. Then they gave us <em>this</em>. Put 
+                this on a 1/1 and sacrifice a treasure/map token to kill a 4 toughness creature <em>every turn</em>. What the flail.</p>
                 <br />
-            </div>  
+            </div> 
             <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/songoftotentanzf.jpg"/>
-                <p><strong>Rating: A-</strong>. Good for X=10, good for X=1 if you need haste. The rat sinergies go crrrazy with this</p>
+                <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/terrortidef.jpg"/>
+                <p><strong>Rare - Breeches</strong>. Ramping, controlling blocks and card advantage, all in an undercosted card. Yas please.</p>
                 <br />
-            </div>  
-            <div>
-                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/decadentdragonf.jpg"/>
-                <p><strong>Rating: A-</strong>. A nice beater if you're only in red, but I'm sure you can <a href="https://mythicspoiler.com/woe/cards/propheticprismf.jpg">squeeze in</a> a bit of black
-                for this adventure!</p>
-                <br />
-            </div>  
+            </div> 
+            <h3>
+                Comments: Holy fuck, is every rare in red playable?
+            </h3>  
 
-            <h1>B (Be looking for these!)</h1>
+            <h1>Removal (anything that gets pesky permanents out of the board, with varying efficacy)</h1>
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/charmingscoundrelf.jpg"/>
-                <p><strong>Rating: B+</strong>. Versatile card, good at all points. Rings a bell? :)</p>
+                <p><strong>Rare - Magmatic Galleon</strong>. 
+                    More often than not, a one-time removal, but a removal that leaves a body behind is good. This is only half a body,
+                    but makes your small creatures useful again to crew it.
+                </p>
                 <br />
             </div> 
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/witchstalkerfrenzy.jpg"/>
-                <p><strong>Rating: B+</strong>. Okay, I thought this cost 5R, and I thought it was good. WHAT THE HELL?? You don't even need creatures attacking
-                for this to be good! BTW, it counts YOUR creatures and YOUR OPPONENT'S creatures, depending on who attacks.</p>
+                <p><strong>Uncommon - Dreadmaw's Ire</strong>. 
+                    I'm almost looking more at the "destroy target artifact" than at the +2/+2. Getting in with a few cretures, then use it on the one that will get damage through
+                    to destroy a crafted artifact where they invested 10 mana for a single red sounds delicious to me!
+                </p>
                 <br />
             </div>  
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/torchthetowerf.jpg"/>
-                <p><strong>Rating: B+</strong>. Your trusty bargain payoff. If you're in red, get 5 of these.</p>
+                <p><strong>Uncommon - Calamitous Cave-In</strong>. And here is our third wrath of the collection? If I didn't know better, I'd swear 
+                the guys that make the game don't like small creatures.</p>
                 <br />
             </div>  
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/imodanesrecruiter.jpg"/>
-                <p><strong>Rating: B</strong>. This gains haste too, so you'll finally get to do what you like best! Attacking the same turn they get on the battlefield ;)</p>
+                <p><strong>Uncommon - Triumphant Chomp</strong>. Much better in a dino deck, but I've never complained about a <a href="https://mythicspoiler.com/m14/cards/shock.jpg">shock</a>.</p>
                 <br />
             </div>   
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/kellanthefaeblooded.jpg"/>
-                <p><strong>Rating: B+</strong>. Double strike is DEVASTATING in a set with so many roles. +1/+0 is also very nice. Rat deck much?</p>
+                <p><strong>Uncommon - Zoyova's Justice</strong>. Good to reset cards? I don't like that this doesn't give you a card back.</p>
                 <br />
-            </div>   
+            </div>  
+            <div>
+                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/kellanthefaeblooded.jpg"/>
+                <p><strong>Common - Tectonic Hazard</strong>. Ping EVERYTHING from your opponents. How good will this be? We'll know in the next episode!</p>
+                <br />
+            </div>
+            <div>
+                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/kellanthefaeblooded.jpg"/>
+                <p><strong>Common - Sunfire Torch</strong>. This is in the appropriate colour because it is such a slow burn. Still good, I guess.</p>
+                <br />
+            </div>
+            <div>
+                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/kellanthefaeblooded.jpg"/>
+                <p><strong>Common - Rumbling Rockslide</strong>. A classic. Never too good, never too bad to ditch it if you don't have anything better.</p>
+                <br />
+            </div>    
+            <div>
+                <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/kellanthefaeblooded.jpg"/>
+                <p>These are removal... <em>of people >:)</em></p>
+                <br />
+            </div>       
 
 
             <h1>C (Cards that will make the cut, or that need support from other cards)</h1>
