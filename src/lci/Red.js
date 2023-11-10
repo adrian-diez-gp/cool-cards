@@ -11,7 +11,7 @@ export default function Red() {
         <div className="colour-page-wrapper">
             <div onClick={() => navigate('/')}><b>Home</b></div>
 
-            <h1>A (Always get them)</h1>
+            <h1>A (Always393164193421949 get them)</h1>
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/goddriccloakedrevelerf.jpg"/>
                 <p><strong>Rating: A</strong>. Consider going red if you find this. 4 damage each turn with no real investment is niiiice.</p>

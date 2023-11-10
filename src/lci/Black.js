@@ -18,26 +18,26 @@ export default function Black() {
             <h1>Bombs (Cards that get away with the game if left unchecked)</h1>
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/aclazotzdeepestbetrayalf.jpg"/>
-                <p><strong>Aclazotz</strong>. Every time "each opponent" appears, consider the power of that card to go up by 1.5x.
+                <p><strong>Mythic - Aclazotz</strong>. Every time "each opponent" appears, consider the power of that card to go up by 1.5x.
                 That's how strong this is!</p>
                 <br />
             </div> 
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/starvingrevenant.jpg"/>
-                <p><strong>Starving Revenant</strong>. High risk, high reward card. The fact that it needs 8 PERMANENT cards makes me play almost no spells in that deck.
+                <p><strong>Rare - Starving Revenant</strong>. High risk, high reward card. The fact that it needs 8 PERMANENT cards makes me play almost no spells in that deck.
                 Even if the support isn't there normally (i.e. there are no permanents that have the effect of a spell attached (see <a>Murder</a> being attached to
                 <a>Ravenous Chupacabra</a>)), the fact that in a 2v2 we can split all spells in one deck and all permanents in another is a nice upside.</p>
                 <br />
             </div> 
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/stalactitestalkerf.jpg"/>
-                <p><strong>Stalactite Stalker</strong>. Not Literally a bomb, but does everything. Gets in the first few turns, gets big passively and can kill something later on.
+                <p><strong>Rare - Stalactite Stalker</strong>. Not Literally a bomb, but does everything. Gets in the first few turns, gets big passively and can kill something later on.
                 23 of these, 17 lands and you're set.</p>
                 <br />
             </div> 
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/lci/cards/terrortidef.jpg"/>
-                <p><strong>Terror Tide</strong>. The reset button of the set. Always keep it in your deck. Play this before your creatures.</p>
+                <p><strong>Rare - Terror Tide</strong>. The reset button of the set. Always keep it in your deck. Play this before your creatures.</p>
                 <br />
             </div> 
             <h3>
@@ -125,20 +125,23 @@ export default function Black() {
             </div>
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/takenbynightmares.jpg"/>
-                <p><strong>Rating: C</strong>. Removal. Inconditional. Take one of that type and move on. Too many rats to spend 4 mana for each creature you kill.</p>
+                <p><strong>Uncommon - Deep-Cavern Bat</strong>. It seems that there's going to be 
+                a 1/1 flyer in each colour, so pingers in red (if there are any) will get very valued.</p>
                 <br />
             </div>
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/feedthecauldron.jpg"/>
-                <p><strong>Rating: C-</strong>. Cheaper removal, but gives you bargain fodder. Not too bad!.</p>
+                <p><strong>Common - Screaming Phantom</strong>. If you get this, it will be because of the self mill. That being said, with proper 
+                payoffs it can become good.</p>
                 <br />
             </div>
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/candygrapple.jpg"/>
-                <p><strong>Rating: C+</strong>. See? Much better! Bargain this, and you have the potential to kill 90-something percent of the creatures in the set!
-                Wouldn't mind a couple in my deck.</p>
+                <p><strong>Common - Deep Goblin Skulltaker</strong>. In an aggressive deck, this does wonders. Menace of big creatures is always 
+                good, especially if backed up with some spells.</p>
                 <br />
             </div>
+            <h3>Comments: not a lot of evasive creatures, so black's value seems to come from self-mill and premium removal. Okay, I can get behind that!</h3>
             <div>
                 <img className='card-wrapper' src="https://mythicspoiler.com/woe/cards/lordskittersbutcherf.jpg"/>
                 <p><strong>Rating: C+</strong>. I'm all for creatures that are good at any moment of the game.</p>
